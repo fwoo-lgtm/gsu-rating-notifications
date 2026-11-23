@@ -1,3468 +1,3468 @@
 {
- "refreshed_at": "2026-11-19T17:44:48Z",
- "titles_lazy": true,
- "courses": [
-  {
-   "course_id": "1081w7vaa024a",
-   "slug": "separator-integrations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "10efc7hibjf9v",
-   "slug": "using-skilljars-strategic-insights-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "10o8pvusyur7x",
-   "slug": "connector-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "11bt9tlvtgy4l",
-   "slug": "quick-tip-sponsor-tracking-key-to-customer-success",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "11kh9x3x9pk23",
-   "slug": "4-cs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "11rzauo5sfxlb",
-   "slug": "ai-in-customer-health-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "11x9pwj550aa6",
-   "slug": "pro-tip-gainsight-takeaways-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "126rft2t8zpxu",
-   "slug": "collect-monitor-learner-feedback",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "12d4mooefnaq2",
-   "slug": "gainsight-associate-admin-certificate-level-1-continuing-education-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "12f1etvd95ope",
-   "slug": "gainsight-certified-administrator-level-2",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "12nd2ssqzd833",
-   "slug": "gainsight-end-user-practice-exercises",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "13weylbc87iq1",
-   "slug": "gainsight-administrator-practice-exercises",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "141wvi8gqc707",
-   "slug": "renewal-center-demo",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "14taxorgawl0n",
-   "slug": "separator-product-experience-px-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "14w5aad0hn9uo",
-   "slug": "gainsight-mcp-bring-real-time-customer-context-into-every-ai-workflow",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "14zgjd9q6jbqw",
-   "slug": "quick-tip-px-welcome-personalization-in-app-video-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "15kbypbn0ythf",
-   "slug": "last-lesson-template",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "15l6hqd8ixr32",
-   "slug": "creating-an-auto-registration-tag",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "15mezlcpeo2r",
-   "slug": "stage-1-define-the-change",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "15vn5f79bj30f",
-   "slug": "final-validation-resuming-operations-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1617dhqnu94zk",
-   "slug": "end-user-power-hour-session-mastering-your-day-with-dashboards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "16c2sczsuwdgr",
-   "slug": "jiyaniokesutoretazhipingaiyaotohanzuondexuebou-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "16eb5ly913ban",
-   "slug": "separator-cs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "16jbe9i70quy3",
-   "slug": "quick-tour-how-to-create-a-job",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "16qukfmjee994",
-   "slug": "introduction-to-model-context-protocol-mcp-for-everyday-ai-use",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "16slb0uv0uoph",
-   "slug": "end-user-power-hour-session-driving-verified-customer-outcomes-with-success-plans-goals",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "16vz6ke1xqi2o",
-   "slug": "get-started-with-content-course-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "170p95ce52rne",
-   "slug": "rules-engine-recovery-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "181wmve2trtj8",
-   "slug": "360-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "18d35zinjk3nn",
-   "slug": "cs-end-user-getting-started-with-spaces",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "18jycdw7n6uqc",
-   "slug": "promote-content-and-drive-visibility",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "18mn2er115ov1",
-   "slug": "salesforce-trailhead-training-for-gainsight-admins",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "18r43e72j9soh",
-   "slug": "cs-end-user-360",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "18rbmb143wm2s",
-   "slug": "cs-admin-configuring-the-insight-agent-integration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "19mlpq1fm8zo9",
-   "slug": "organize-your-site-with-catalog-pages-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "19qlh511nng9p",
-   "slug": "optional-lessons",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "19s2r3tedt302",
-   "slug": "pro-tip-what-are-customer-goals",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1a5su2yhfl7nl",
-   "slug": "skilljar-mcp-get-started-with-the-skilljar-mcp-server",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1a9t7ix1cbbcp",
-   "slug": "tips-when-launching-your-first-journey-orchestrator-program",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ac4ehzgvax75",
-   "slug": "admin-practical-adoption-explorer",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1aced7judag6k",
-   "slug": "gainsight-security-basics-security-fundamentals",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1akc2kewktaxq",
-   "slug": "journey-orchestrator-use-case-tutorials-and-walkthroughs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ardbedo97ugt",
-   "slug": "horizon-reports-dashboards-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1au9mvlumu4z2",
-   "slug": "create-quizzes-and-assessments",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1avgj8mxj5si0",
-   "slug": "separator-skilljar-skilljar-foundations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1awycmaqe5l4c",
-   "slug": "2-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1b38s3uqx5oaj",
-   "slug": "quick-tour-how-to-load-data-from-a-csv-file",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1bc0ubd3ts0af",
-   "slug": "3-course-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1bfiw3imoa1m1",
-   "slug": "cs-end-user-introductory-training-skills-badge-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1bix2kxw7ekg1",
-   "slug": "configure-success-snapshots",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1bvjbg84ejs1u",
-   "slug": "cc-customer-community-introduction",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1c3s8pzvh2nsi",
-   "slug": "staircase-ai-health-score-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1c8lj1n7lpwqd",
-   "slug": "gainsight-mcp-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1cf2m06cjguxt",
-   "slug": "ce-getting-started-with-customer-education-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1dyjs0p20xp1g",
-   "slug": "creating-your-product-map-structure",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1dzxfyd6xxi2g",
-   "slug": "tags-filter-groups",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1e2wqufcwszk6",
-   "slug": "cs-admin-group-send",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1e7ge1zayfkup",
-   "slug": "quick-tip-configuring-staircase-ai-integrations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1efj7a95i07x6",
-   "slug": "nxt-admin-level-3-practice-test",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1fcqulmdl8bbf",
-   "slug": "quick-tip-unlocking-insights-exploring-gainsight-dashboards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1fkh7z56vgb4u",
-   "slug": "level-2-admin-certification-reports-and-dashboards-v4",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1fux0d3u5zzru",
-   "slug": "cs-it-readiness-overview-of-gainsight-data-integrations-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1gcqq6eelpoas",
-   "slug": "integrating-customer-community-data-with-gainsight-cs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1gd103m380xuh",
-   "slug": "cs-end-user-interactive-demo-viewing-a-customer-scorecard",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1guoz0a2kw0qu",
-   "slug": "quick-tip-driving-engagement-harnessing-gainsights-path-analyzer-for-enhanced-feature-adoption",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1h6fesex73j9b",
-   "slug": "gainsight-cs-end-user-training-opportunities-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1hit7037jcbb5",
-   "slug": "px-knowledge-center-bot-configuration-2025",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1hq1zerl90xb1",
-   "slug": "how-to-create-a-rule",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1hu547oo7r5xh",
-   "slug": "publishing-courses-objects",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ihaapn5t7i8a",
-   "slug": "admin-cx-center-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ii67ozh6cxbk",
-   "slug": "separator-dashboard-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ilqcfed0mqb2",
-   "slug": "staircase-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1iqg9fpz0pz5n",
-   "slug": "cc-community-setup-and-administration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1j0t0qadiheop",
-   "slug": "quick-tip-navigating-cockpit-your-customer-engagement-hub",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1juax179562hk",
-   "slug": "quick-tip-what-are-gainsight-scorecards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1jyxj6a535g8g",
-   "slug": "create-tags",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1k2d8f0wq4l8k",
-   "slug": "digital-hub-ideation-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1kfwtj02b82j8",
-   "slug": "cs-admin-getting-started-with-copilot",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1kt9dy700c4wq",
-   "slug": "identifying-risk-and-preventing-churn-skills-badge-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1kyvl894ygl2x",
-   "slug": "adoption-tracking-governance-coaching",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1lb00zov9k7xl",
-   "slug": "cs-admin-data-designer",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ljc931ubsctq",
-   "slug": "cs-end-user-interactive-demo-logging-activities-in-timeline",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1m45xvr9cow30",
-   "slug": "using-skilljars-salesforce-integration-to-get-the-most-from-your-training-data",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1mb2hz88b0qem",
-   "slug": "first-100-days-as-a-cs-leader-reflect-communicate-and-transition",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1mevv812wzzva",
-   "slug": "ce-setup-instructor-led-events",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1mn5zuygelk5",
-   "slug": "ce-modify-your-academys-layout-using-templates-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ms7n96qybziw",
-   "slug": "office-hours-customer-education",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1nh9f88d7v3dc",
-   "slug": "quick-tip-configuring-staircase-ai-notifications",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1njtw8tga3upd",
-   "slug": "users-roles-and-responsibilities",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1npsvqilbpguk",
-   "slug": "using-skilljars-strategic-insights-interactive",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1nxhxwxacd61w",
-   "slug": "staircase-ai-admin-setup-essentials",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1o1yn9kq1zqvn",
-   "slug": "quick-tip-cs-license-types",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ocjd8uapatz0",
-   "slug": "introduction-to-change-management-in-customer-success-skills-badge-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1oiz427gjlwmc",
-   "slug": "plan-your-education-roadmap",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1oqwfc5zhxab1",
-   "slug": "restoring-your-skilljar-salesforce-integration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ozokzgos7ps3",
-   "slug": "executive-communcations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1p8g8vdrgcxpm",
-   "slug": "px-integrations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1q3umy6j4rm0u",
-   "slug": "expanding-your-audience-with-content-syndication",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1qbdg6d9jtxdj",
-   "slug": "px-using-product-mapper-to-instrument-your-product",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1qcc8mpxyfxp9",
-   "slug": "staircase-ai-value-measurement-guide",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1qwby0f7b1u9o",
-   "slug": "administrative-settings",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1r4qxmnyqqsci",
-   "slug": "skilljar-skilljar-dashboard-setup-administration-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1r5e1mcjjpggf",
-   "slug": "gainsight-px-certification",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1rki8gg3rncia",
-   "slug": "end-user-customer-goals",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1rop3wc1h0vk2",
-   "slug": "use-seo-and-aeo-to-get-your-academy-seen",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1rvggtzccogvy",
-   "slug": "cs-end-user-intro-to-gainsight-assist-chrome-plugin",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1rycqpqmsd8gf",
-   "slug": "quick-tip-mastering-success-unlocking-the-potential-of-dashboards-in-customer-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1sr22bso77rxm",
-   "slug": "cs-end-user-sally-the-ai-bot",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1suerrgucwzhk",
-   "slug": "migrating-from-northpass-to-skilljar",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1td1p1ad93uh8",
-   "slug": "cs-end-user-day-in-the-life-of-how-a-csm-uses-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1tipgn92su6i0",
-   "slug": "quick-tip-px-engagements-media-tokens",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1tkoi5bmxe4mq",
-   "slug": "quick-tip-dashboards-for-customer-community-and-customer-education-data",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1ts2ld7wl53hv",
-   "slug": "separator-gainsight-cs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1tw3dd7x6dxwv",
-   "slug": "cs-it-readiness-next-steps-and-action-items",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1uovgoe9l17kd",
-   "slug": "admin-data-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1uz7fybewzqih",
-   "slug": "quick-tour-how-to-do-derived-mapping-in-gainsight-connectors",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1uzzcvrh71zru",
-   "slug": "creating-and-managing-groups",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1v13weml0wsnj",
-   "slug": "quick-tip-what-is-scorecard-optimizer",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1v1i5wrk71g68",
-   "slug": "introducing-gainsights-ai-agent-in-slack",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1v69azccompn7",
-   "slug": "leveraging-gainsight-apis",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1vaa1e5mbll7u",
-   "slug": "bundle-and-sell-training-with-plans",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1vhoz8ilzwfdy",
-   "slug": "try-it-scheduling-reports-with-skilljar",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1vu2k8h0isunk",
-   "slug": "cockpit-timeline-recovery",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1vwo1tul29w7o",
-   "slug": "2-cs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1vxgfbqrehgq7",
-   "slug": "nxt-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1w5zub41dpx1n",
-   "slug": "ren-sheng-noyi-ri",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1wixog3hh9y4u",
-   "slug": "admin-experiential-configure-processes-to-reduce-risk-and-churn",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1wo65yezu01ei",
-   "slug": "admin-nxt-connectors",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1wodn63a09cma",
-   "slug": "restoring-other-connectors",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1wyev6pr5yr8y",
-   "slug": "welcome-to-skilljar-lets-get-started",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1x3e5ude83o7t",
-   "slug": "cs-admin-success-plans",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1x67askruwfpg",
-   "slug": "course-maintenance-asset-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1xa14d1g2drph",
-   "slug": "organize-students-with-groups-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1xg9iivlz5xct",
-   "slug": "quick-tip-what-does-basic-journey-orchestrator-queue-management-reporting-look-like",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1yf039rciq4xm",
-   "slug": "cs-end-user-group-send",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1yhn1yl8lxt9y",
-   "slug": "cc-ideation-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1yxu4p80kt1mu",
-   "slug": "level-2-admin-certification-reports-and-dashboards-v1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1z6ton9t8da2h",
-   "slug": "skilljar-skills-badge-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1zab6ifgoe0d4",
-   "slug": "best-practices-for-managing-risks",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "1zf8u99iz4njp",
-   "slug": "separator-staircase-ai-learning-path",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "202gk37ztzdix",
-   "slug": "separator-gainsight-cc",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "20i6xhyld1xuo",
-   "slug": "cs-admin-ai-scorecards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "20lb7x7dq7g83",
-   "slug": "audit-log-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "20nvud3x6mimi",
-   "slug": "separator-adoption-champion-optional-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "20q9ab3nll15g",
-   "slug": "separator-analytics-adoption",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "20xuvqvyo8wpg",
-   "slug": "cccc-mcp-gainsight-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "20ys6135pv28z",
-   "slug": "use-theming-to-brand-your-training-domain-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "21cxkpfda18w4",
-   "slug": "separator-cs-cs-admin-training-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "21tcgf3wwtmx6",
-   "slug": "sprint-planning-for-ps-implementation-teams",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "21voloi1ad387",
-   "slug": "cs-admin-redesigned-advanced-program",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "21vskz8nosgz1",
-   "slug": "skilljars-path-actions",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "21x6n14kfwxpd",
-   "slug": "quick-tip-what-is-a-cs-manager-dashboard-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2205egxqzcx07",
-   "slug": "quick-tip-ai-copilot",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "22iko36bmxaeb",
-   "slug": "cs-end-user-interactive-demo-creating-a-new-success-plan",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "22kek53h8udoz",
-   "slug": "adoption-champion-training-nxt-sf",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "22zrd8g4qvgka",
-   "slug": "level-2-admin-certification-journey-orchestrator-surveys-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "234c8wfc2i4sl",
-   "slug": "cc-users-roles-and-responsibilities",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "237s39h5jn9yd",
-   "slug": "new-gainsight-administrators-of-old-implementations-taking-over",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "23p7qs7xu5whu",
-   "slug": "object-visibility-settings",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "23wxdh1ohwrv8",
-   "slug": "knowledge-base-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "24d8n24girpsv",
-   "slug": "separator-customer-education-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "24ibgn621kdgy",
-   "slug": "organize-your-site-with-catalog-pages",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "24nzuqfc1xbyq",
-   "slug": "skilljar-manage-students-in-skilljar-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "24tojviwkz61m",
-   "slug": "ce-leverage-the-media-library-for-efficiency-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "24ugip79y4z2a",
-   "slug": "introduction-to-sightline-vault",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "257fsmtmmhnl",
-   "slug": "adding-multiple-content-types-to-a-lesson",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "25hyew3ks11m6",
-   "slug": "cs-end-user-interactive-demo-starting-your-day-in-gainsight-home",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "25ptvphrwce8o",
-   "slug": "skilljar-for-gainsight-csms",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2638215hnd6zd",
-   "slug": "integrate-your-skilljar-data-into-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "26546cses19by",
-   "slug": "build-and-brand-your-homepage",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "267v6fsigeed9",
-   "slug": "admin-gainsight-home-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "26nyc4959ic5f",
-   "slug": "ai-powered-cs-playbooks-by-industry",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "26re5ya5avf17",
-   "slug": "separator-staircase-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "27jpbjdk1sg86",
-   "slug": "dch-owasp-training-may-2026",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "27z7xxvr0fnnb",
-   "slug": "admin-rules-engine-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2814ilbwzoadw",
-   "slug": "introduction-why-security-matters-for-admins",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "286i0v12zyg1g",
-   "slug": "cc-knowledge-base-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "288lk7dk9jgih",
-   "slug": "quick-tip-exploring-gainsight-dashboards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "28n0na0gq5vxn",
-   "slug": "cs-course-2",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "28ptzwtcqc3dn",
-   "slug": "customer-goals",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "28s14n58gw288",
-   "slug": "gainsight-security-basics-gainsight-cs-security-configuration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "28st5qrpoqbif",
-   "slug": "ce-user-authentication",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "292w639iarmmj",
-   "slug": "cockpit-timeline-restoration-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "29exmkqp0tvh4",
-   "slug": "creating-multi-session-events",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "29nno4sasjhcd",
-   "slug": "staircase-ai-accounts-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "29rfu8gr7fe83",
-   "slug": "ce-create-a-learning-path",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "29s8ui76hmttn",
-   "slug": "ce-create-a-static-quiz-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2a0cbh6q5n2jp",
-   "slug": "understanding-value-acceleration-services",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2a0dp1mgu5ngg",
-   "slug": "separator-customer-communities-cc-customer-communities-cc-training-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2aaf5qzst8353",
-   "slug": "manage-students-at-scale-with-groups",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ag6glxo8jp5a",
-   "slug": "cs-end-user-interactive-demo-tracking-and-analyzing-customer-data-with-dashboards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2b3wllg0o06d4",
-   "slug": "turn-on-ai-tutor-for-your-academy",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2b83jh97d7jej",
-   "slug": "invite-dashboard-admin-users",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2b89nl0wnz18p",
-   "slug": "ce-content-performance-and-assessment-reports",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2beib1zj6nq87",
-   "slug": "quick-tip-ai-follow-up",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2bjlpa6pc2y25",
-   "slug": "separator-better-together-px-and-cs-training-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2bou8vkngly7v",
-   "slug": "quick-tour-how-to-establish-a-connection-in-gainsight-connectors",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2bq48xzt6tcsw",
-   "slug": "ce-configure-academy-settings-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2bqrfv9t47nnh",
-   "slug": "quick-tip-what-is-customer-cheat-sheet-in-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2c36f6d2qnx19",
-   "slug": "test-and-validate-before-launch",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2cw62siyqa0s7",
-   "slug": "admin-practical-reports-and-dashboards-deep-dive",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2cw6yh6qsk9h5",
-   "slug": "ai-essentials-for-community-managers-moderation-insights-and-engagement",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2dpvq10v6ll9m",
-   "slug": "5cs-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2e0z7x7u4yjt9",
-   "slug": "catalog-structure-mapping",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2eezbps13t1v9",
-   "slug": "advanced-mcp-mastery-the-super-user-track",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2eidxz1fwvmrz",
-   "slug": "gainsight-security-basics-api-and-integration-security",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2f386hwxenvf7",
-   "slug": "stage-4-enable-and-launch",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ffmok9y7nkd0",
-   "slug": "gainsight-foundations-nxt-fka-101",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2g9wvroxhkgb8",
-   "slug": "quick-tip-how-to-use-data-designer-to-calculate-a-correlation",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2gp4v20xbi1pv",
-   "slug": "nxt-admin-reports-dashboards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2gpt59fq7zxl7",
-   "slug": "ai-staircase-ai-executive-dashboard",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2h1lf2z0oi3nx",
-   "slug": "gainsight-team-view-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2h4feolegh1o8",
-   "slug": "cc-gamification-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2h9mtbdayn05s",
-   "slug": "using-email-templates-across-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2hb9abohv4p2k",
-   "slug": "admin-renewal-center",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2hn6bpulp5xyw",
-   "slug": "getting-started-with-plans-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2hpp9fatkj65d",
-   "slug": "cs-admin-best-practices-for-a-successful-gainsight-launch-job-aid",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2i3spv7mmrnmo",
-   "slug": "quick-tip-personalizing-your-gainsight-homepage",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2iavv7s2ys2wo",
-   "slug": "bundle-and-sell-training-with-plans-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2irj9lqyn1vjz",
-   "slug": "conducting-chairsides-to-drive-adoption",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2itjgfpr2ga73",
-   "slug": "admin-experiential-design-build-and-refine-dynamic-programs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ivhox4dklfj7",
-   "slug": "ai-powered-cs-workflows-with-gainsight-mcp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2j9040ouw1pr1",
-   "slug": "quick-tip-how-to-increase-upsells-cross-sells-and-expansions-with-gainsight-px-cs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2joyqshb6bp2w",
-   "slug": "moderation-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2k2ze23k7yfnp",
-   "slug": "separator-customer-communities-cc-training-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ky12er68eaaw",
-   "slug": "admin-cockpit",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2l1kwab2v8wx5",
-   "slug": "renewal-efficiency-gainsights-insightful-solution",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2l8ml0madvuyn",
-   "slug": "creating-managing-groups",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2lb2iaux4zh9a",
-   "slug": "skilljar-salesforce-restoration-internal-enablement",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2lclbehegql5j",
-   "slug": "gainsight-end-user-continuing-education-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ljmd7muq9x7n",
-   "slug": "separator-staircase-ai-staircase-ai-learning-path-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2lze372w1hcjh",
-   "slug": "cs-admin-surveys",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2m0epl6dhks2d",
-   "slug": "show-program-value-to-leadership",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ma9js8cciw3f",
-   "slug": "configuring-adoption-explorer-to-support-your-px-cs-integration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ns5ynnfu30yk",
-   "slug": "the-ai-powered-cs-operating-system",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2nts6n03ktiy7",
-   "slug": "set-up-certificates",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2nyfgfoki7brk",
-   "slug": "first-100-days-as-a-cs-leader-orient-listen-and-build-trust",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2obe534h906vr",
-   "slug": "configure-domain-settings",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2oe02y0vxudui",
-   "slug": "gainsight-onboarding-for-new-csms",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2oudaguu3uvva",
-   "slug": "benefits-of-creating-a-risk-process",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2owfv6l8q1eog",
-   "slug": "quick-tour-how-to-merge-two-source-objects-in-gainsight-connectors",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2p1vljprrfyzq",
-   "slug": "quick-tour-how-to-configure-a-scorecard",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2pe8x8tje3e4f",
-   "slug": "day-in-the-life-of-a-manager-using-staircase-ai-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2pq7wx1jh5q81",
-   "slug": "add-lessons-to-your-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2pwayii1cs67i",
-   "slug": "announce-your-training-program",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2pwm2glhzkrdj",
-   "slug": "digital-hub-integrations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2qfdh0zo9tpne",
-   "slug": "cs-end-user-success-plans",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2qwpitb7yhnft",
-   "slug": "admin-certifications-levels-1-3",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2qwuly24dr2a7",
-   "slug": "crawl-use-case-reportsdashboards-scorecards-and-ctas",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2rb6wyzgyoqmy",
-   "slug": "publish-your-course-to-a-domain",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2rcu6q1d7xepx",
-   "slug": "quick-tip-staircase-ai-configuration-setup",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2rh03t8cf24u3",
-   "slug": "salesforce-connector-recovery-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2rimr22nd2ol5",
-   "slug": "quick-tip-unveiling-timeline-your-customers-story-unfolded",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2rjo8qradlcmy",
-   "slug": "admin-dashboard-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2rn7c2m1wytdc",
-   "slug": "restoring-your-ce-salesforce-integration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2rwtmtplyhh00",
-   "slug": "first-100-days-as-a-cs-leader-communicate-align-and-build-momentum",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2rx15ebctqce6",
-   "slug": "separator-customer-education-customer-education-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2sn721z5lgdx1",
-   "slug": "quick-tip-what-is-gainsights-meeting-assist-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2t4hv0x8ltjus",
-   "slug": "dejitarujiyanitorenderisosuhuoyongnozuidahua-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2tafjxssq778p",
-   "slug": "reporting-packages-for-customer-training-programs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2teva2bnu5s39",
-   "slug": "creating-and-managing-content",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2tgogxweh6b3b",
-   "slug": "cs-end-user-introduction-to-cockpit",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2tjw0brn223sb",
-   "slug": "cc-customer-communities-integrations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2tw2rmtpp2nbz",
-   "slug": "skilljar-analytics-and-reports-a-tour-of-your-training-data",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2u1ywg3245gse",
-   "slug": "gainsight-end-user-certification",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2u2m3mci5n97u",
-   "slug": "cs-end-user-introduction-to-timeline",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ugmj04qvfuu5",
-   "slug": "separator-customer-communities-cc-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2uon9sv0z4e7y",
-   "slug": "admin-practical-using-the-s3-connector",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2v5kreom3hpxd",
-   "slug": "preparing-your-teams-for-ai-augmented-customer-success",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2vrfv1r59n46v",
-   "slug": "dynamic-programs-transition-guide",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2w31lvr2my945",
-   "slug": "manage-students-in-skilljar",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2wd69ccvsey9x",
-   "slug": "quick-tip-can-we-generate-a-pivot-report-on-cta-tasks",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2wk3ia2zd0sii",
-   "slug": "separator-cs-end-user-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2wka4w327atpl",
-   "slug": "end-user-team-view",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2wvgsfvhp73sv",
-   "slug": "creating-a-quiz-question-bank",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ww6dgmj9gv5w",
-   "slug": "overview-of-business-modelerrelationships",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2x36bpxaf9zek",
-   "slug": "separator-cs-cs-end-user-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2xgs32qwnp32g",
-   "slug": "office-hours-change-management-for-customer-success",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2xxcdb9m1n1ga",
-   "slug": "admin-practical-create-dynamic-programs-with-journey-orchestrator",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2y41am9lfgkug",
-   "slug": "admin-s3-connector",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2y5y2ctykvk4w",
-   "slug": "best-practices-for-continued-success",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2yiu1qxetm4zy",
-   "slug": "create-your-first-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2ymk3vr03q5cv",
-   "slug": "admin-practical-data-designer",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2z7bxah0xlt0u",
-   "slug": "foundations-of-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2z8fkfo6ham7d",
-   "slug": "admin-salesforce-connector-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2zlo89s9jfhdm",
-   "slug": "plan-your-course-structure",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2znd7ui304zu1",
-   "slug": "cs-driving-adoption-with-end-users",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2zqxq66lwomqz",
-   "slug": "tips-on-how-to-use-gainsight-analyzer",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "2zz513b29ehn4",
-   "slug": "3cs-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "30flclp2oz63t",
-   "slug": "separator-cs-admin-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "30l8yjrf19p1n",
-   "slug": "quick-tip-mastering-productivity-leveraging-cockpit-views-for-efficient-customer-success-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "30skjowqufkpu",
-   "slug": "separator-ai-essentials",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "30spi1gicfiwj",
-   "slug": "quick-tip-how-are-surveys-distributed-using-journey-orchestrator",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "30vyfybxyf22h",
-   "slug": "ce-build-and-design-impactful-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "31kdo1kv7qncj",
-   "slug": "level-2-admin-certification-reports-dashboards-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "31pt6u26zgxbf",
-   "slug": "exporting-data-from-group-analytics",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "31vs0eu7qpv3a",
-   "slug": "how-a-gainsight-cs-leader-uses-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "31yfe5s3l5ela",
-   "slug": "ce-engage-with-learners-via-email",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "32bpv3z2cmkd2",
-   "slug": "admin-configuring-customer-goals-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "32lbsrg3a69ve",
-   "slug": "separator-cs-admin-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "32uim6ds1hywe",
-   "slug": "quick-tour-how-to-create-an-automated-onboarding-program-in-gainsights-journey-orchestrator",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "330ovamq8evrq",
-   "slug": "px-engagements",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "33gvhtf5c0ezc",
-   "slug": "level-2-admin-certification-journey-orchestrator-surveys-v2",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "33nemzlkvusnr",
-   "slug": "px-getting-started-with-gainsight-px",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "33qkwb1q5oqia",
-   "slug": "ce-create-user-groups",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "34hsflrpz0q7u",
-   "slug": "separator-cs-end-user-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "35371cnibdno3",
-   "slug": "managing-live-event-attendees",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "357mwrbp306na",
-   "slug": "ce-course-learner-engagement-analysis",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "35k2mq4g3m14y",
-   "slug": "quick-tour-how-to-add-users-from-csv-in-gainsight-user-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "35o3cx05xt42r",
-   "slug": "separator-skilljar",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "35pol576lav10",
-   "slug": "cs-end-user-introduction-to-scorecards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "360xpkjqznjxx",
-   "slug": "separator-engagements",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "363n0mcn18pij",
-   "slug": "ce-leveraging-commerce-to-monetize-your-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "367ynngg54qxn",
-   "slug": "gainsight-px-practice-exercises-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "36ay3ja659hyk",
-   "slug": "customizing-the-design-of-your-digital-hub",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "36dmvgx4gwf2d",
-   "slug": "configure-organization-settings",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "36eum6398siqu",
-   "slug": "admin-practical-understanding-data-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "36li61ptu6aah",
-   "slug": "cc-administrative-settings",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "36oh53pc6fjy2",
-   "slug": "nxt-nxt-horizon-reports-and-dashboards-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "36owspajgaqrx",
-   "slug": "train-the-trainer-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "36zai4a917u55",
-   "slug": "quick-tour-efficient-license-permission-bundle-management-in-gainsight-user-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "37nr6i9wc0dwj",
-   "slug": "gainsight-reportdashboardkihon",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "37qplf4fpnx2s",
-   "slug": "ai-essentials-for-customer-education-teams-from-prompt-to-published",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "37ymflbwh9k02",
-   "slug": "how-gainsights-professional-services-team-uses-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3882xgeo43zug",
-   "slug": "px-knowledge-center-bot",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "38l1pp2fpuvo7",
-   "slug": "admin-segments-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "38u69zu1adoi2",
-   "slug": "training-credits-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "393qe5ppqzwko",
-   "slug": "admin-user-management-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3949hqntt766i",
-   "slug": "px-closed-loop-feedback",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "39q6ekkw7of2k",
-   "slug": "quick-tip-what-is-business-modeler-in-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "39tl8zmh3wze",
-   "slug": "quick-tip-what-is-gainsight-salesforce-viewer",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "39trzq6adw3m5",
-   "slug": "separator-staircase-ai-quick-tip-videos",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3acfdjrci2xf8",
-   "slug": "stage-3-communicate-the-change",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3ar88m2ebp00q",
-   "slug": "separator-customer-communities-cc-customer-communities-cc-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3bfk16vxtnshf",
-   "slug": "quick-tip-what-is-gainsights-journey-orchestrator",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3bgh8tru03ok9",
-   "slug": "level-2-admin-certification-reports-and-dashboards-v3",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3bz4ux30u0hsn",
-   "slug": "restoring-your-gainsight-px-salesforce-integration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3cmgv1p0af003",
-   "slug": "integrating-px-and-cs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3cpuguyx5ppli",
-   "slug": "staircase-ai-setting-up-alerts-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3d4qpyu193207",
-   "slug": "gainsight-cc-partner-developer-training-onboarding",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3dgynbchc132j",
-   "slug": "separator-adoption-champion-recommended-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3dkyatx0xxfop",
-   "slug": "inviting-managing-students",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3ejfu9mrs19f8",
-   "slug": "quick-tour-how-to-add-users-from-external-systems-in-gainsight-user-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3ejopvchp8zcw",
-   "slug": "nxt-end-user-timeline",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3em6wrajntm7z",
-   "slug": "nxt-gainsight-nxt-gainsight-home",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3er1clanjrval",
-   "slug": "success-snapshots",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3euql94athb9f",
-   "slug": "quick-tip-how-to-leverage-gainsight-px-and-cs-for-rolepersona-confirmation",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3foz080tgde6q",
-   "slug": "managing-gainsight-end-user-feedback",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3g9x4whzof6u9",
-   "slug": "cs-end-user-interactive-demo-managing-ctas-in-cockpit",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3gmxspn44tdns",
-   "slug": "stage-2-build-your-coalition",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3gtfuexroqyto",
-   "slug": "first-100-days-as-a-cs-leader-plan-sequence-and-execute",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3gu5r1ilypztr",
-   "slug": "first-100-days-as-a-cs-leader-assess-diagnose-and-form-your-point-of-view",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3gvv07gaqqk2c",
-   "slug": "communityworkshopjizen3-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3h3bblpb6owyl",
-   "slug": "custom-end-user-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3h8tt76bygy5m",
-   "slug": "admin-practical-designing-effective-surveys",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3hrcxdmbyt34k",
-   "slug": "cc-put-ai-to-work-in-your-gainsight-community-using-the-cc-mcp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3ig3s6pbgg5wh",
-   "slug": "maximizing-impact-with-skilljar-salesforce",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3imlf21plnwzq",
-   "slug": "end-user-power-hour-session-demystifying-customer-health-with-scorecards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3jacws3wwmnzg",
-   "slug": "using-gainsight-to-track-and-manage-risks",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3jj7u5q5fzfny",
-   "slug": "ce-enroll-learners-in-a-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3k06dg13cs2iq",
-   "slug": "aiai-essentials-for-community-managers",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3k8zaib9a8d8a",
-   "slug": "cc-creating-and-managing-groups",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3k9aro6eugxg7",
-   "slug": "quick-tip-what-are-executive-dashboards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3ke78ck0qprr2",
-   "slug": "quick-tip-ai-cheat-sheet",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3kg9zx5t17c6",
-   "slug": "better-together-gainsight-cs-and-px",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3kloe3sweo6pl",
-   "slug": "configure-email-notifications",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3klyf5091px0y",
-   "slug": "360-nxt-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3kr2mbqiklq7j",
-   "slug": "cs-end-user-intro-to-gainsight-assist-for-outlook",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3l5sk9db7erub",
-   "slug": "ce-create-an-assignment-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3l7vy8e8zvpa8",
-   "slug": "run-use-case-triggering-px-engagements-and-surveys-from-journey-orchestrator",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3l90o2vj6ou1i",
-   "slug": "multi-session-live-training-events-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3lbc5fmg5arlg",
-   "slug": "cx-center-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3mjhbhavx6bin",
-   "slug": "gainsight-security-basics-skills-badge-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3mkihzqe2feme",
-   "slug": "identifying-and-tracking-risks-within-your-portfolio",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3mml9o4jot3y5",
-   "slug": "skilljars-external-management",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3mpr719j2fws3",
-   "slug": "customer-communities-salesforce-integration-restoration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3mrmexwch7o94",
-   "slug": "an-introduction-to-risk-detection-and-prevention",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3mtw2ely2jk2a",
-   "slug": "get-started-skilljar-mcp-server",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3npkilumzdr20",
-   "slug": "bulk-uploading-course-content",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3nqnf1kof1ehe",
-   "slug": "skilljars-content-syndication",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3otipphhr1gu3",
-   "slug": "getting-the-most-out-of-your-skilljar-data",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3oy6l0rgwtpmn",
-   "slug": "skilljar-dashboard-setup-administration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3oyhgr5bc43ts",
-   "slug": "understand-learning-objectives",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3phiqpns67xs",
-   "slug": "staircase-ai-setting-up-alerts",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3q9c0fvofsb3a",
-   "slug": "data-management-in-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3q9u47m3nosex",
-   "slug": "ai-ai-essentials-for-product-managers",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3qbfg7q8ax4wb",
-   "slug": "log-in-to-your-skilljar-dashboard",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3qiexwxw5tl58",
-   "slug": "cc-community-module-structure-content-permissions-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3qlyz1j3p60qf",
-   "slug": "staircase-interactive-walkthrough-use-ask-staircase-to-quickly-access-account-ai-driven-insights",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3qwav7696l8yl",
-   "slug": "cs-end-user-using-copilot-to-make-informed-decisions",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3qzsix1z9tn8s",
-   "slug": "ce-build-interactive-tutorials-quickly-using-the-iorad-integration",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3r00czg7o0dfy",
-   "slug": "overview-of-change-management-processes",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3reoyz62siapq",
-   "slug": "quick-tip-how-to-transform-the-customer-success-game-using-success-plans",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3rf9izvbnczl2",
-   "slug": "preview-publish-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3sa7fmcn3nrd1",
-   "slug": "preview-publish-courses-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3t81t6wkvib6j",
-   "slug": "nxt-end-user-scorecards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3texerndk6e1q",
-   "slug": "admin-scorecards-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3tg9tslieuda5",
-   "slug": "ce-customize-your-academy-website-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3tzkllwlvq5o7",
-   "slug": "ce-market-and-promote-your-academy",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3u7mnxryup0h5",
-   "slug": "nxt-nxt-success-plan",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3umpfbu9ow81t",
-   "slug": "cs-end-user-introduction-to-the-customer-360-c360",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3umvgbb5ibn7x",
-   "slug": "customer-stories-on-managing-and-preventing-churn",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3unexnfoa1dlm",
-   "slug": "custom-enrollment-reports",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3uoih3feljw6m",
-   "slug": "ai-essentials-for-csms-understanding-ai-in-your-cs-workflow",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3uozjx9f3diri",
-   "slug": "admin-timeline-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3urnoz48kk686",
-   "slug": "ce-work-with-gainsight-to-design-your-ideal-academy",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3v99hdwx5kyip",
-   "slug": "installing-the-salesforce-integration-sfdc-app",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3vvknct8ruaue",
-   "slug": "cc-creating-and-managing-content",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "3zxgrktuwb5a",
-   "slug": "gainsight-end-user-practice-exercises-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "4351j2i3mwbv",
-   "slug": "organize-students-with-groups",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "4h8jyybnkg13",
-   "slug": "data-designer-reports-recovery",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "4kby0sn057iy",
-   "slug": "quick-tip-what-is-gainsight-mobile-app",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "4u10fczga5y",
-   "slug": "adoption-explorer-use-case-tutorials-and-walkthroughs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "519kkbjpqiwk",
-   "slug": "cloning-a-catalog-page",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "52e8lwa32iw0",
-   "slug": "train-the-trainer-gainsight-launch-training-for-staircase-ai-teams",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "5by7kpyj5hbw",
-   "slug": "admin-practical-digital-journey-basics",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "5csyxpefsq28",
-   "slug": "nxt-admin-scorecards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "5pqhmbgnk2py",
-   "slug": "cs-admin-horizon-reports-dashboards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "5v5mm57n1pxp",
-   "slug": "the-csms-ai-writing-playbook",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "61vvt0de4gg9",
-   "slug": "caption-file-upload-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "67vkxg808qaa",
-   "slug": "cc-moderating-content",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "69ynco16mioz",
-   "slug": "turn-skilljar-analytics-into-action",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "6az87rnfv022",
-   "slug": "adding-managing-dashboard-users",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "6fu6xcvrjiep",
-   "slug": "digital-hub-analytics",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "6g1kekexhagp",
-   "slug": "course-maintenance-asset-management-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "6mhtrgyinnlw",
-   "slug": "conducting-effective-kickoff-calls",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "6wfi8qtbwizy",
-   "slug": "separator-skilljar-foundations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "6wniajbuaan2",
-   "slug": "quick-tip-gainsights-approach-to-preventing-customer-churn",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "6x76pk2wroj2",
-   "slug": "staircase-ai-accounts-overview-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "6xwvnrpuhfme",
-   "slug": "overview-of-gainsight-api",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "71vqnvrkddou",
-   "slug": "px-a-guide-to-gainsight-px-engagement-governance",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "75p48d2byjhc",
-   "slug": "getting-started-gainsight-nxt-recovery-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "75qplv86qyxs",
-   "slug": "px-setup-installation",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "7rst6los35e7",
-   "slug": "px-custom-events-and-global-context-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "7wgpdr8h7yxt",
-   "slug": "3-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "8g4qy7xuojix",
-   "slug": "introduction-to-integrations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "8s9i0bpa96xo",
-   "slug": "quick-tip-how-does-a-director-at-gainsight-use-gs-cs",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "8u7wc79cs2v8",
-   "slug": "building-your-px-cs-strategy",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "90tiqt9uo8b5",
-   "slug": "admin-nxt-gainsight-sally",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "94iznz6mmrdo",
-   "slug": "separator-post-launch-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "95wy7p4deder",
-   "slug": "skilljar-welcome-to-skilljar-lets-get-started-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "97pvpvfeafdr",
-   "slug": "gainsight-associate-admin-certificate-level-1-japanese",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "9fi07e330xlt",
-   "slug": "connecting-px-and-cs-with-an-identifier",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "9ie855gn0se0",
-   "slug": "defeating-the-ai-replacement-objection-why-no-stack-claude-alone-or-with-mcps-beats-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "9ikvmyjz4f8n",
-   "slug": "quick-tip-csql-in-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "9sodje1798rz",
-   "slug": "quick-tour-salesforce-and-gainsight-integration-setup",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "9yoc7ugotjju",
-   "slug": "admin-jo-advanced-programs-nxt-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "a0r8tmuci3ip",
-   "slug": "adoption-explorer-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "a4p2uea0l2dn",
-   "slug": "px-data-loader",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "a5dl5mbewbpk",
-   "slug": "quick-tip-px-engagements-user-behavior-triggers",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "a797dmy6ainn",
-   "slug": "cs-end-user-scorecards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ap7l0np7tl6x",
-   "slug": "build-a-learning-journey-with-learning-paths-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "auu61yax7j67",
-   "slug": "manage-your-students",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "azseji0jnlqy",
-   "slug": "cs-end-user-introduction-to-success-plans",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "bbw8r29pzjf8",
-   "slug": "separator-ai-ai-essentials",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "bt3nl3fwnflz",
-   "slug": "separator-cs-cs-end-user-training-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "btp02jjpk0uo",
-   "slug": "plan-your-catalog-and-site-structure",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "c2gdy0zerxls",
-   "slug": "enabling-cs-success-the-tpm-handoff-process",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ck2f91tacsc8",
-   "slug": "cs-admin-360",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "cqy4rkhzswxv",
-   "slug": "staircase-ai-reports",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "crwh48jrz4si",
-   "slug": "setting-or-changing-your-catalog-homepage",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "cshd977een74",
-   "slug": "aimcp-introduction-to-mcp-for-everyday-use",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "cv6egn02ugvm",
-   "slug": "build-a-learning-journey-with-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "cymyhwshd73a",
-   "slug": "quick-tip-enhanced-visibility-tracking-automated-customer-communications",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "db80olczzg7i",
-   "slug": "admin-practical-scorecards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "dl7eo8778qhp",
-   "slug": "csacademyjp-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "dopcpfqbigwq",
-   "slug": "final-validation-resuming-operations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "dume5n5mkeqf",
-   "slug": "ce-create-a-dynamic-quiz-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "dy2jx0n7dweb",
-   "slug": "signing-in-as-a-student",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "e7cjeyb0xug4",
-   "slug": "day-in-the-life-of-an-executive-using-staircase-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "eo5rk94xnzcp",
-   "slug": "pre-sales-scoping-sow-creation",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ep9j04dp8wnq",
-   "slug": "email-campaigns-and-segments-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "es29di4s2gsl",
-   "slug": "admin-rules-engine",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "f45zown7a8vt",
-   "slug": "walk-use-case-survey-integration-product-adoption-jo",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "f72yvgm4iox5",
-   "slug": "journey-orchestrator-recovery-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "f8hvqtvf6asq",
-   "slug": "gainsight-admin-cli-intro-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "fd4h4ty9yl5",
-   "slug": "admin-experiential-mastering-data-preparation",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "fd84hbpudr41",
-   "slug": "getting-started-with-gainsight-end-user-webinar",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ff1a7akp6sm9",
-   "slug": "build-your-cs-platform-custom-mcps-real-ux",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "fkkq54ygn1py",
-   "slug": "cs-admin-email-template-builder",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "gidja89p38xw",
-   "slug": "chrome-end-user-intro-to-gainsight-assist-chrome-plugin",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "gp4t762bvt3v",
-   "slug": "gainsight-home-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "h4qen1pmvdev",
-   "slug": "go-to-market-playbook-templates",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "i00g3i6yco6p",
-   "slug": "ai-ai-essentials-for-customer-education-teams",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "i9962lrbixms",
-   "slug": "gainsight-admin-foundations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "i9kqzc02bkoi",
-   "slug": "cs-it-readiness-application-architecture",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "il6chzxss43j",
-   "slug": "quick-tip-gainsight-cockpit-streamlining-customer-engagement",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "iq2c3ai1px5d",
-   "slug": "quick-tip-what-is-gainsight-home",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "iqrvbz6z1vw9",
-   "slug": "cs-end-user-introduction-to-gainsight-home",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "irn8s1cbg4hu",
-   "slug": "separator-customer-education-training-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "iutsjs85mhke",
-   "slug": "quick-tip-px-engagements-font-styling",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "j3l3jv9nisp6",
-   "slug": "staircase-ai-reportsreports",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "j8hfaz2cq5lv",
-   "slug": "ce-creating-and-managing-certificates",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "jcdj9btb1fvy",
-   "slug": "cs-end-user-interactive-demo-introduction-to-the-customer-360-c360",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "jledeiqqw884",
-   "slug": "staircase-ai-health-score",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "jwwhizu0acck",
-   "slug": "day-in-the-life-of-a-csmam-using-staircase-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "k8ivx1hafzks",
-   "slug": "product-certifications",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "kyionlhiubn3",
-   "slug": "gainsight-certified-administrator-level-3",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "li3eu7t467c0",
-   "slug": "nxt-nxt-cockpit-and-playbook",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ltf7h3dg7r03",
-   "slug": "mastering-fixit-human-ai-collaboration-for-csms",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "m1ee1rchbum8",
-   "slug": "cs-admin-configuring-timeline",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "m3dwiynjlzbq",
-   "slug": "quick-tip-staircase-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ma2j3i1a8h24",
-   "slug": "adding-a-new-dashboard-user",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "mbgvmw33ted6",
-   "slug": "nxt-nxt-end-user-foundations",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ml8b4ceehbrw",
-   "slug": "quick-tour-how-to-create-a-dashboard-in-gainsight",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "msysfqrkxnkr",
-   "slug": "create-a-learning-path",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "mumg4pbok4sw",
-   "slug": "ai-essentials-for-product-managers-boosting-workflow-efficiencyuntitled-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "muthvs0gukhw",
-   "slug": "single-sign-on-overview",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "n0u6emyv3jt5",
-   "slug": "gainsight-associate-admin-certificate-level-1-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "n5mxmy1eur6b",
-   "slug": "gamification-training",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "n84jbteu7qa7",
-   "slug": "cs-admin-getting-started-with-spaces",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ngz9gw4onubb",
-   "slug": "csmaiai-ai-essentials-for-csms",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "niik80u8zpkm",
-   "slug": "cs-admin-digital-journey",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "nlzwpl297aqj",
-   "slug": "cs-cs-end-user-group-send",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "nuc2yjmsli1p",
-   "slug": "get-started-with-content-course-management-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "nzn2vysmstkd",
-   "slug": "how-to-create-a-job-chain",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "oaylvdvxkol3",
-   "slug": "admin-practical-rules-engine-deep-dive",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "od7iqzq22nzy",
-   "slug": "admin-training-lite",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ofncxiil099s",
-   "slug": "staircase-ai-onboarding-best-practices-for-solutions-architects",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "p2cck8qwug3x",
-   "slug": "renewal-center-recovery",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "pk5b4tozgidp",
-   "slug": "px-put-ai-to-work-in-gainsight-px-using-the-px-mcp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "psoug3ifrs01",
-   "slug": "separator-staircase-ai-training-courses",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "pujrw58bb27v",
-   "slug": "quick-tip-px-welcome-personalization-in-app-video-2",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "q1z0bhehbrlm",
-   "slug": "quick-tip-unlocking-productivity-navigating-gainsight-home",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "q4v5pbtc3fd1",
-   "slug": "end-user-power-hour-session-gainsight-ai-supercharging-your-cs-journey",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "q7v0kfo28rex",
-   "slug": "staircase-ai-introduction",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "q8cn4hmb05xr",
-   "slug": "skilljar-certified-professional-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "qe68r4tfdf6d",
-   "slug": "admin-practical-report-builder-basics",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "qew75f3zwr9q",
-   "slug": "surveys-tips-tricks",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "qlhart4mtpi4",
-   "slug": "cs-end-user-cockpit-playbooks",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "qlrrylk3fc1u",
-   "slug": "cs-admin-cockpit-playbooks",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "qxiaox932fm",
-   "slug": "separator-learning-paths",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "qye9r5wl0av8",
-   "slug": "quick-tip-streamlining-customer-success-snapshots",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "qzqd6w63ovft",
-   "slug": "data-designer-recovery-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "r36ywpt5b513",
-   "slug": "1-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "rntu2ilc0de4",
-   "slug": "gainsight-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "rowb03zeu4q5",
-   "slug": "use-theming-to-brand-your-training-domain",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "rr48qtwuzky0",
-   "slug": "admin-practical-rules-engine-basics",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "s4edbe99v2wj",
-   "slug": "cs-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "s5u4hkwetaf3",
-   "slug": "separator-gainsight-px",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "segei8lsv1rv",
-   "slug": "nxt-admin-journey-orchestrator-nxt",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "sone89ry149n",
-   "slug": "cc-community-module-structure-content-permissions",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "sqvavwmoesvi",
-   "slug": "journey-orchestrator-recovery",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "sxkow6ohw1at",
-   "slug": "stage-5-sustain-and-govern",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ti3sqc33ftsf",
-   "slug": "customizing-course-platform-text",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "tp9i77emcuwk",
-   "slug": "rules-engine-recovery",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ts542f4vlrqd",
-   "slug": "quick-tour-streamlining-success-navigating-gainsights-journey-orchestrator",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "u91ppos50bck",
-   "slug": "quick-tour-how-to-create-a-basic-report-in-gainsight-reports-and-dashboards",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "ufms2s3eqvln",
-   "slug": "quick-tour-how-to-configure-job-schedule-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "uqobae6983wg",
-   "slug": "html-blocks-interactive-lesson-templates",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "uwup5en21tgy",
-   "slug": "renewal-center-recovery-jp",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "v1pv4aqxtkcj",
-   "slug": "cs-course-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "va05anjqy3jv",
-   "slug": "ai-powered-cs-workflows-advanced-use-cases",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "vhw9ih1xxa4p",
-   "slug": "staircase-ai-best-practices",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "vj3uquy2ynhn",
-   "slug": "introduction-to-staircase-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "voj0ui52npa5",
-   "slug": "px-analytics",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "w4biwzhzakg5",
-   "slug": "quick-tip-how-to-write-emails-with-ai",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "w7dwtd25kfap",
-   "slug": "restoring-your-salesforce-connector",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "wdw86f81k5y5",
-   "slug": "vas-tpm-certification-final-exam",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "weamnz95cuco",
-   "slug": "getting-started-with-skilljars-api",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "wjrzlujwb1v1",
-   "slug": "level-2-admin-certification-reports-dashboards-v2",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "wvesxrwasqbt",
-   "slug": "quick-tip-exploring-gainsight-home",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "x1j4w9x2yimp",
-   "slug": "staircase-ai-executive-dashboard",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "x2m8b3md9mz8",
-   "slug": "separator-getting-started-setup",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "x6ctc4v2oc72",
-   "slug": "quick-tip-gainsight-people-maps-your-key-to-retention-growth",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "xcuz0t8hqgm3",
-   "slug": "gainsight-security-basics-data-privacy",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "xf7wpgo04e3x",
-   "slug": "level-2-admin-certification-journey-orchestrator-surveys-v1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "xjk5xcya9y3r",
-   "slug": "timeline-course",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "xmcmgp4fjun9",
-   "slug": "ce-managing-internal-roles-permissions",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "xny9qy0tda7p",
-   "slug": "cc-email-campaigns-and-segments",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "xt8an2sb3wgt",
-   "slug": "1-course-1",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "xvgsh3gjl6ae",
-   "slug": "quick-tour-how-to-transform-data-in-a-source-object-in-gainsight-connectors",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "xyv1tkt71ocn",
-   "slug": "quick-tip-what-is-adoption-explorer",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "yil55967gk95",
-   "slug": "cc-customer-communities-analytics",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "z3gk5iei933h",
-   "slug": "admin-continuing-education-package",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "zkxcmnvob5p3",
-   "slug": "monitor-learner-activity-in-analytics",
-   "title": null,
-   "average_rating": null
-  },
-  {
-   "course_id": "zwbccy51d841",
-   "slug": "cs-end-user-introduction-to-reports-dashboards",
-   "title": null,
-   "average_rating": null
-  }
- ]
+  "refreshed_at": "2026-11-23T13:20:00Z",
+  "titles_lazy": true,
+  "courses": [
+    {
+      "course_id": "1081w7vaa024a",
+      "slug": "separator-integrations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "10efc7hibjf9v",
+      "slug": "using-skilljars-strategic-insights-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "10o8pvusyur7x",
+      "slug": "connector-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "11bt9tlvtgy4l",
+      "slug": "quick-tip-sponsor-tracking-key-to-customer-success",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "11kh9x3x9pk23",
+      "slug": "4-cs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "11rzauo5sfxlb",
+      "slug": "ai-in-customer-health-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "11x9pwj550aa6",
+      "slug": "pro-tip-gainsight-takeaways-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "126rft2t8zpxu",
+      "slug": "collect-monitor-learner-feedback",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "12d4mooefnaq2",
+      "slug": "gainsight-associate-admin-certificate-level-1-continuing-education-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "12f1etvd95ope",
+      "slug": "gainsight-certified-administrator-level-2",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "12nd2ssqzd833",
+      "slug": "gainsight-end-user-practice-exercises",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "13weylbc87iq1",
+      "slug": "gainsight-administrator-practice-exercises",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "141wvi8gqc707",
+      "slug": "renewal-center-demo",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "14taxorgawl0n",
+      "slug": "separator-product-experience-px-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "14w5aad0hn9uo",
+      "slug": "gainsight-mcp-bring-real-time-customer-context-into-every-ai-workflow",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "14zgjd9q6jbqw",
+      "slug": "quick-tip-px-welcome-personalization-in-app-video-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "15kbypbn0ythf",
+      "slug": "last-lesson-template",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "15l6hqd8ixr32",
+      "slug": "creating-an-auto-registration-tag",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "15mezlcpeo2r",
+      "slug": "stage-1-define-the-change",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "15vn5f79bj30f",
+      "slug": "final-validation-resuming-operations-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1617dhqnu94zk",
+      "slug": "end-user-power-hour-session-mastering-your-day-with-dashboards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "16c2sczsuwdgr",
+      "slug": "jiyaniokesutoretazhipingaiyaotohanzuondexuebou-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "16eb5ly913ban",
+      "slug": "separator-cs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "16jbe9i70quy3",
+      "slug": "quick-tour-how-to-create-a-job",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "16qukfmjee994",
+      "slug": "introduction-to-model-context-protocol-mcp-for-everyday-ai-use",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "16slb0uv0uoph",
+      "slug": "end-user-power-hour-session-driving-verified-customer-outcomes-with-success-plans-goals",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "16vz6ke1xqi2o",
+      "slug": "get-started-with-content-course-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "170p95ce52rne",
+      "slug": "rules-engine-recovery-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "181wmve2trtj8",
+      "slug": "360-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "18d35zinjk3nn",
+      "slug": "cs-end-user-getting-started-with-spaces",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "18jycdw7n6uqc",
+      "slug": "promote-content-and-drive-visibility",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "18mn2er115ov1",
+      "slug": "salesforce-trailhead-training-for-gainsight-admins",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "18r43e72j9soh",
+      "slug": "cs-end-user-360",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "18rbmb143wm2s",
+      "slug": "cs-admin-configuring-the-insight-agent-integration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "19mlpq1fm8zo9",
+      "slug": "organize-your-site-with-catalog-pages-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "19qlh511nng9p",
+      "slug": "optional-lessons",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "19s2r3tedt302",
+      "slug": "pro-tip-what-are-customer-goals",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1a5su2yhfl7nl",
+      "slug": "skilljar-mcp-get-started-with-the-skilljar-mcp-server",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1a9t7ix1cbbcp",
+      "slug": "tips-when-launching-your-first-journey-orchestrator-program",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ac4ehzgvax75",
+      "slug": "admin-practical-adoption-explorer",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1aced7judag6k",
+      "slug": "gainsight-security-basics-security-fundamentals",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1akc2kewktaxq",
+      "slug": "journey-orchestrator-use-case-tutorials-and-walkthroughs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ardbedo97ugt",
+      "slug": "horizon-reports-dashboards-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1au9mvlumu4z2",
+      "slug": "create-quizzes-and-assessments",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1avgj8mxj5si0",
+      "slug": "separator-skilljar-skilljar-foundations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1awycmaqe5l4c",
+      "slug": "2-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1b38s3uqx5oaj",
+      "slug": "quick-tour-how-to-load-data-from-a-csv-file",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1bc0ubd3ts0af",
+      "slug": "3-course-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1bfiw3imoa1m1",
+      "slug": "cs-end-user-introductory-training-skills-badge-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1bix2kxw7ekg1",
+      "slug": "configure-success-snapshots",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1bvjbg84ejs1u",
+      "slug": "cc-customer-community-introduction",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1c3s8pzvh2nsi",
+      "slug": "staircase-ai-health-score-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1c8lj1n7lpwqd",
+      "slug": "gainsight-mcp-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1cf2m06cjguxt",
+      "slug": "ce-getting-started-with-customer-education-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1dyjs0p20xp1g",
+      "slug": "creating-your-product-map-structure",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1dzxfyd6xxi2g",
+      "slug": "tags-filter-groups",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1e2wqufcwszk6",
+      "slug": "cs-admin-group-send",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1e7ge1zayfkup",
+      "slug": "quick-tip-configuring-staircase-ai-integrations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1efj7a95i07x6",
+      "slug": "nxt-admin-level-3-practice-test",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1fcqulmdl8bbf",
+      "slug": "quick-tip-unlocking-insights-exploring-gainsight-dashboards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1fkh7z56vgb4u",
+      "slug": "level-2-admin-certification-reports-and-dashboards-v4",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1fux0d3u5zzru",
+      "slug": "cs-it-readiness-overview-of-gainsight-data-integrations-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1gcqq6eelpoas",
+      "slug": "integrating-customer-community-data-with-gainsight-cs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1gd103m380xuh",
+      "slug": "cs-end-user-interactive-demo-viewing-a-customer-scorecard",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1guoz0a2kw0qu",
+      "slug": "quick-tip-driving-engagement-harnessing-gainsights-path-analyzer-for-enhanced-feature-adoption",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1h6fesex73j9b",
+      "slug": "gainsight-cs-end-user-training-opportunities-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1hit7037jcbb5",
+      "slug": "px-knowledge-center-bot-configuration-2025",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1hq1zerl90xb1",
+      "slug": "how-to-create-a-rule",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1hu547oo7r5xh",
+      "slug": "publishing-courses-objects",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ihaapn5t7i8a",
+      "slug": "admin-cx-center-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ii67ozh6cxbk",
+      "slug": "separator-dashboard-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ilqcfed0mqb2",
+      "slug": "staircase-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1iqg9fpz0pz5n",
+      "slug": "cc-community-setup-and-administration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1j0t0qadiheop",
+      "slug": "quick-tip-navigating-cockpit-your-customer-engagement-hub",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1juax179562hk",
+      "slug": "quick-tip-what-are-gainsight-scorecards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1jyxj6a535g8g",
+      "slug": "create-tags",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1k2d8f0wq4l8k",
+      "slug": "digital-hub-ideation-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1kfwtj02b82j8",
+      "slug": "cs-admin-getting-started-with-copilot",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1kt9dy700c4wq",
+      "slug": "identifying-risk-and-preventing-churn-skills-badge-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1kyvl894ygl2x",
+      "slug": "adoption-tracking-governance-coaching",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1lb00zov9k7xl",
+      "slug": "cs-admin-data-designer",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ljc931ubsctq",
+      "slug": "cs-end-user-interactive-demo-logging-activities-in-timeline",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1m45xvr9cow30",
+      "slug": "using-skilljars-salesforce-integration-to-get-the-most-from-your-training-data",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1mb2hz88b0qem",
+      "slug": "first-100-days-as-a-cs-leader-reflect-communicate-and-transition",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1mevv812wzzva",
+      "slug": "ce-setup-instructor-led-events",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1mn5zuygelk5",
+      "slug": "ce-modify-your-academys-layout-using-templates-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ms7n96qybziw",
+      "slug": "office-hours-customer-education",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1nh9f88d7v3dc",
+      "slug": "quick-tip-configuring-staircase-ai-notifications",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1njtw8tga3upd",
+      "slug": "users-roles-and-responsibilities",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1npsvqilbpguk",
+      "slug": "using-skilljars-strategic-insights-interactive",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1nxhxwxacd61w",
+      "slug": "staircase-ai-admin-setup-essentials",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1o1yn9kq1zqvn",
+      "slug": "quick-tip-cs-license-types",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ocjd8uapatz0",
+      "slug": "introduction-to-change-management-in-customer-success-skills-badge-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1oiz427gjlwmc",
+      "slug": "plan-your-education-roadmap",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1oqwfc5zhxab1",
+      "slug": "restoring-your-skilljar-salesforce-integration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ozokzgos7ps3",
+      "slug": "executive-communcations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1p8g8vdrgcxpm",
+      "slug": "px-integrations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1q3umy6j4rm0u",
+      "slug": "expanding-your-audience-with-content-syndication",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1qbdg6d9jtxdj",
+      "slug": "px-using-product-mapper-to-instrument-your-product",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1qcc8mpxyfxp9",
+      "slug": "staircase-ai-value-measurement-guide",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1qwby0f7b1u9o",
+      "slug": "administrative-settings",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1r4qxmnyqqsci",
+      "slug": "skilljar-skilljar-dashboard-setup-administration-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1r5e1mcjjpggf",
+      "slug": "gainsight-px-certification",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1rki8gg3rncia",
+      "slug": "end-user-customer-goals",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1rop3wc1h0vk2",
+      "slug": "use-seo-and-aeo-to-get-your-academy-seen",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1rvggtzccogvy",
+      "slug": "cs-end-user-intro-to-gainsight-assist-chrome-plugin",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1rycqpqmsd8gf",
+      "slug": "quick-tip-mastering-success-unlocking-the-potential-of-dashboards-in-customer-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1sr22bso77rxm",
+      "slug": "cs-end-user-sally-the-ai-bot",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1suerrgucwzhk",
+      "slug": "migrating-from-northpass-to-skilljar",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1td1p1ad93uh8",
+      "slug": "cs-end-user-day-in-the-life-of-how-a-csm-uses-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1tipgn92su6i0",
+      "slug": "quick-tip-px-engagements-media-tokens",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1tkoi5bmxe4mq",
+      "slug": "quick-tip-dashboards-for-customer-community-and-customer-education-data",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1ts2ld7wl53hv",
+      "slug": "separator-gainsight-cs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1tw3dd7x6dxwv",
+      "slug": "cs-it-readiness-next-steps-and-action-items",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1uovgoe9l17kd",
+      "slug": "admin-data-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1uz7fybewzqih",
+      "slug": "quick-tour-how-to-do-derived-mapping-in-gainsight-connectors",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1uzzcvrh71zru",
+      "slug": "creating-and-managing-groups",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1v13weml0wsnj",
+      "slug": "quick-tip-what-is-scorecard-optimizer",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1v1i5wrk71g68",
+      "slug": "introducing-gainsights-ai-agent-in-slack",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1v69azccompn7",
+      "slug": "leveraging-gainsight-apis",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1vaa1e5mbll7u",
+      "slug": "bundle-and-sell-training-with-plans",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1vhoz8ilzwfdy",
+      "slug": "try-it-scheduling-reports-with-skilljar",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1vu2k8h0isunk",
+      "slug": "cockpit-timeline-recovery",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1vwo1tul29w7o",
+      "slug": "2-cs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1vxgfbqrehgq7",
+      "slug": "nxt-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1w5zub41dpx1n",
+      "slug": "ren-sheng-noyi-ri",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1wixog3hh9y4u",
+      "slug": "admin-experiential-configure-processes-to-reduce-risk-and-churn",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1wo65yezu01ei",
+      "slug": "admin-nxt-connectors",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1wodn63a09cma",
+      "slug": "restoring-other-connectors",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1wyev6pr5yr8y",
+      "slug": "welcome-to-skilljar-lets-get-started",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1x3e5ude83o7t",
+      "slug": "cs-admin-success-plans",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1x67askruwfpg",
+      "slug": "course-maintenance-asset-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1xa14d1g2drph",
+      "slug": "organize-students-with-groups-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1xg9iivlz5xct",
+      "slug": "quick-tip-what-does-basic-journey-orchestrator-queue-management-reporting-look-like",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1yf039rciq4xm",
+      "slug": "cs-end-user-group-send",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1yhn1yl8lxt9y",
+      "slug": "cc-ideation-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1yxu4p80kt1mu",
+      "slug": "level-2-admin-certification-reports-and-dashboards-v1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1z6ton9t8da2h",
+      "slug": "skilljar-skills-badge-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1zab6ifgoe0d4",
+      "slug": "best-practices-for-managing-risks",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "1zf8u99iz4njp",
+      "slug": "separator-staircase-ai-learning-path",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "202gk37ztzdix",
+      "slug": "separator-gainsight-cc",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "20i6xhyld1xuo",
+      "slug": "cs-admin-ai-scorecards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "20lb7x7dq7g83",
+      "slug": "audit-log-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "20nvud3x6mimi",
+      "slug": "separator-adoption-champion-optional-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "20q9ab3nll15g",
+      "slug": "separator-analytics-adoption",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "20xuvqvyo8wpg",
+      "slug": "cccc-mcp-gainsight-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "20ys6135pv28z",
+      "slug": "use-theming-to-brand-your-training-domain-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "21cxkpfda18w4",
+      "slug": "separator-cs-cs-admin-training-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "21tcgf3wwtmx6",
+      "slug": "sprint-planning-for-ps-implementation-teams",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "21voloi1ad387",
+      "slug": "cs-admin-redesigned-advanced-program",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "21vskz8nosgz1",
+      "slug": "skilljars-path-actions",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "21x6n14kfwxpd",
+      "slug": "quick-tip-what-is-a-cs-manager-dashboard-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2205egxqzcx07",
+      "slug": "quick-tip-ai-copilot",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "22iko36bmxaeb",
+      "slug": "cs-end-user-interactive-demo-creating-a-new-success-plan",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "22kek53h8udoz",
+      "slug": "adoption-champion-training-nxt-sf",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "22zrd8g4qvgka",
+      "slug": "level-2-admin-certification-journey-orchestrator-surveys-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "234c8wfc2i4sl",
+      "slug": "cc-users-roles-and-responsibilities",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "237s39h5jn9yd",
+      "slug": "new-gainsight-administrators-of-old-implementations-taking-over",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "23p7qs7xu5whu",
+      "slug": "object-visibility-settings",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "23wxdh1ohwrv8",
+      "slug": "knowledge-base-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "24d8n24girpsv",
+      "slug": "separator-customer-education-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "24ibgn621kdgy",
+      "slug": "organize-your-site-with-catalog-pages",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "24nzuqfc1xbyq",
+      "slug": "skilljar-manage-students-in-skilljar-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "24tojviwkz61m",
+      "slug": "ce-leverage-the-media-library-for-efficiency-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "24ugip79y4z2a",
+      "slug": "introduction-to-sightline-vault",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "257fsmtmmhnl",
+      "slug": "adding-multiple-content-types-to-a-lesson",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "25hyew3ks11m6",
+      "slug": "cs-end-user-interactive-demo-starting-your-day-in-gainsight-home",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "25ptvphrwce8o",
+      "slug": "skilljar-for-gainsight-csms",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2638215hnd6zd",
+      "slug": "integrate-your-skilljar-data-into-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "26546cses19by",
+      "slug": "build-and-brand-your-homepage",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "267v6fsigeed9",
+      "slug": "admin-gainsight-home-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "26nyc4959ic5f",
+      "slug": "ai-powered-cs-playbooks-by-industry",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "26re5ya5avf17",
+      "slug": "separator-staircase-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "27jpbjdk1sg86",
+      "slug": "dch-owasp-training-may-2026",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "27z7xxvr0fnnb",
+      "slug": "admin-rules-engine-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2814ilbwzoadw",
+      "slug": "introduction-why-security-matters-for-admins",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "286i0v12zyg1g",
+      "slug": "cc-knowledge-base-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "288lk7dk9jgih",
+      "slug": "quick-tip-exploring-gainsight-dashboards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "28n0na0gq5vxn",
+      "slug": "cs-course-2",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "28ptzwtcqc3dn",
+      "slug": "customer-goals",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "28s14n58gw288",
+      "slug": "gainsight-security-basics-gainsight-cs-security-configuration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "28st5qrpoqbif",
+      "slug": "ce-user-authentication",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "292w639iarmmj",
+      "slug": "cockpit-timeline-restoration-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "29exmkqp0tvh4",
+      "slug": "creating-multi-session-events",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "29nno4sasjhcd",
+      "slug": "staircase-ai-accounts-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "29rfu8gr7fe83",
+      "slug": "ce-create-a-learning-path",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "29s8ui76hmttn",
+      "slug": "ce-create-a-static-quiz-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2a0cbh6q5n2jp",
+      "slug": "understanding-value-acceleration-services",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2a0dp1mgu5ngg",
+      "slug": "separator-customer-communities-cc-customer-communities-cc-training-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2aaf5qzst8353",
+      "slug": "manage-students-at-scale-with-groups",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ag6glxo8jp5a",
+      "slug": "cs-end-user-interactive-demo-tracking-and-analyzing-customer-data-with-dashboards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2b3wllg0o06d4",
+      "slug": "turn-on-ai-tutor-for-your-academy",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2b83jh97d7jej",
+      "slug": "invite-dashboard-admin-users",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2b89nl0wnz18p",
+      "slug": "ce-content-performance-and-assessment-reports",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2beib1zj6nq87",
+      "slug": "quick-tip-ai-follow-up",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2bjlpa6pc2y25",
+      "slug": "separator-better-together-px-and-cs-training-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2bou8vkngly7v",
+      "slug": "quick-tour-how-to-establish-a-connection-in-gainsight-connectors",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2bq48xzt6tcsw",
+      "slug": "ce-configure-academy-settings-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2bqrfv9t47nnh",
+      "slug": "quick-tip-what-is-customer-cheat-sheet-in-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2c36f6d2qnx19",
+      "slug": "test-and-validate-before-launch",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2cw62siyqa0s7",
+      "slug": "admin-practical-reports-and-dashboards-deep-dive",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2cw6yh6qsk9h5",
+      "slug": "ai-essentials-for-community-managers-moderation-insights-and-engagement",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2dpvq10v6ll9m",
+      "slug": "5cs-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2e0z7x7u4yjt9",
+      "slug": "catalog-structure-mapping",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2eezbps13t1v9",
+      "slug": "advanced-mcp-mastery-the-super-user-track",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2eidxz1fwvmrz",
+      "slug": "gainsight-security-basics-api-and-integration-security",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2f386hwxenvf7",
+      "slug": "stage-4-enable-and-launch",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ffmok9y7nkd0",
+      "slug": "gainsight-foundations-nxt-fka-101",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2g9wvroxhkgb8",
+      "slug": "quick-tip-how-to-use-data-designer-to-calculate-a-correlation",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2gp4v20xbi1pv",
+      "slug": "nxt-admin-reports-dashboards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2gpt59fq7zxl7",
+      "slug": "ai-staircase-ai-executive-dashboard",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2h1lf2z0oi3nx",
+      "slug": "gainsight-team-view-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2h4feolegh1o8",
+      "slug": "cc-gamification-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2h9mtbdayn05s",
+      "slug": "using-email-templates-across-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2hb9abohv4p2k",
+      "slug": "admin-renewal-center",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2hn6bpulp5xyw",
+      "slug": "getting-started-with-plans-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2hpp9fatkj65d",
+      "slug": "cs-admin-best-practices-for-a-successful-gainsight-launch-job-aid",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2i3spv7mmrnmo",
+      "slug": "quick-tip-personalizing-your-gainsight-homepage",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2iavv7s2ys2wo",
+      "slug": "bundle-and-sell-training-with-plans-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2irj9lqyn1vjz",
+      "slug": "conducting-chairsides-to-drive-adoption",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2itjgfpr2ga73",
+      "slug": "admin-experiential-design-build-and-refine-dynamic-programs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ivhox4dklfj7",
+      "slug": "ai-powered-cs-workflows-with-gainsight-mcp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2j9040ouw1pr1",
+      "slug": "quick-tip-how-to-increase-upsells-cross-sells-and-expansions-with-gainsight-px-cs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2joyqshb6bp2w",
+      "slug": "moderation-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2k2ze23k7yfnp",
+      "slug": "separator-customer-communities-cc-training-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ky12er68eaaw",
+      "slug": "admin-cockpit",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2l1kwab2v8wx5",
+      "slug": "renewal-efficiency-gainsights-insightful-solution",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2l8ml0madvuyn",
+      "slug": "creating-managing-groups",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2lb2iaux4zh9a",
+      "slug": "skilljar-salesforce-restoration-internal-enablement",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2lclbehegql5j",
+      "slug": "gainsight-end-user-continuing-education-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ljmd7muq9x7n",
+      "slug": "separator-staircase-ai-staircase-ai-learning-path-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2lze372w1hcjh",
+      "slug": "cs-admin-surveys",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2m0epl6dhks2d",
+      "slug": "show-program-value-to-leadership",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ma9js8cciw3f",
+      "slug": "configuring-adoption-explorer-to-support-your-px-cs-integration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ns5ynnfu30yk",
+      "slug": "the-ai-powered-cs-operating-system",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2nts6n03ktiy7",
+      "slug": "set-up-certificates",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2nyfgfoki7brk",
+      "slug": "first-100-days-as-a-cs-leader-orient-listen-and-build-trust",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2obe534h906vr",
+      "slug": "configure-domain-settings",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2oe02y0vxudui",
+      "slug": "gainsight-onboarding-for-new-csms",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2oudaguu3uvva",
+      "slug": "benefits-of-creating-a-risk-process",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2owfv6l8q1eog",
+      "slug": "quick-tour-how-to-merge-two-source-objects-in-gainsight-connectors",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2p1vljprrfyzq",
+      "slug": "quick-tour-how-to-configure-a-scorecard",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2pe8x8tje3e4f",
+      "slug": "day-in-the-life-of-a-manager-using-staircase-ai-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2pq7wx1jh5q81",
+      "slug": "add-lessons-to-your-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2pwayii1cs67i",
+      "slug": "announce-your-training-program",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2pwm2glhzkrdj",
+      "slug": "digital-hub-integrations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2qfdh0zo9tpne",
+      "slug": "cs-end-user-success-plans",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2qwpitb7yhnft",
+      "slug": "admin-certifications-levels-1-3",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2qwuly24dr2a7",
+      "slug": "crawl-use-case-reportsdashboards-scorecards-and-ctas",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2rb6wyzgyoqmy",
+      "slug": "publish-your-course-to-a-domain",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2rcu6q1d7xepx",
+      "slug": "quick-tip-staircase-ai-configuration-setup",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2rh03t8cf24u3",
+      "slug": "salesforce-connector-recovery-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2rimr22nd2ol5",
+      "slug": "quick-tip-unveiling-timeline-your-customers-story-unfolded",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2rjo8qradlcmy",
+      "slug": "admin-dashboard-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2rn7c2m1wytdc",
+      "slug": "restoring-your-ce-salesforce-integration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2rwtmtplyhh00",
+      "slug": "first-100-days-as-a-cs-leader-communicate-align-and-build-momentum",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2rx15ebctqce6",
+      "slug": "separator-customer-education-customer-education-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2sn721z5lgdx1",
+      "slug": "quick-tip-what-is-gainsights-meeting-assist-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2t4hv0x8ltjus",
+      "slug": "dejitarujiyanitorenderisosuhuoyongnozuidahua-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2tafjxssq778p",
+      "slug": "reporting-packages-for-customer-training-programs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2teva2bnu5s39",
+      "slug": "creating-and-managing-content",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2tgogxweh6b3b",
+      "slug": "cs-end-user-introduction-to-cockpit",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2tjw0brn223sb",
+      "slug": "cc-customer-communities-integrations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2tw2rmtpp2nbz",
+      "slug": "skilljar-analytics-and-reports-a-tour-of-your-training-data",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2u1ywg3245gse",
+      "slug": "gainsight-end-user-certification",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2u2m3mci5n97u",
+      "slug": "cs-end-user-introduction-to-timeline",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ugmj04qvfuu5",
+      "slug": "separator-customer-communities-cc-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2uon9sv0z4e7y",
+      "slug": "admin-practical-using-the-s3-connector",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2v5kreom3hpxd",
+      "slug": "preparing-your-teams-for-ai-augmented-customer-success",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2vrfv1r59n46v",
+      "slug": "dynamic-programs-transition-guide",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2w31lvr2my945",
+      "slug": "manage-students-in-skilljar",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2wd69ccvsey9x",
+      "slug": "quick-tip-can-we-generate-a-pivot-report-on-cta-tasks",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2wk3ia2zd0sii",
+      "slug": "separator-cs-end-user-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2wka4w327atpl",
+      "slug": "end-user-team-view",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2wvgsfvhp73sv",
+      "slug": "creating-a-quiz-question-bank",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ww6dgmj9gv5w",
+      "slug": "overview-of-business-modelerrelationships",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2x36bpxaf9zek",
+      "slug": "separator-cs-cs-end-user-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2xgs32qwnp32g",
+      "slug": "office-hours-change-management-for-customer-success",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2xxcdb9m1n1ga",
+      "slug": "admin-practical-create-dynamic-programs-with-journey-orchestrator",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2y41am9lfgkug",
+      "slug": "admin-s3-connector",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2y5y2ctykvk4w",
+      "slug": "best-practices-for-continued-success",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2yiu1qxetm4zy",
+      "slug": "create-your-first-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2ymk3vr03q5cv",
+      "slug": "admin-practical-data-designer",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2z7bxah0xlt0u",
+      "slug": "foundations-of-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2z8fkfo6ham7d",
+      "slug": "admin-salesforce-connector-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2zlo89s9jfhdm",
+      "slug": "plan-your-course-structure",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2znd7ui304zu1",
+      "slug": "cs-driving-adoption-with-end-users",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2zqxq66lwomqz",
+      "slug": "tips-on-how-to-use-gainsight-analyzer",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "2zz513b29ehn4",
+      "slug": "3cs-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "30flclp2oz63t",
+      "slug": "separator-cs-admin-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "30l8yjrf19p1n",
+      "slug": "quick-tip-mastering-productivity-leveraging-cockpit-views-for-efficient-customer-success-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "30skjowqufkpu",
+      "slug": "separator-ai-essentials",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "30spi1gicfiwj",
+      "slug": "quick-tip-how-are-surveys-distributed-using-journey-orchestrator",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "30vyfybxyf22h",
+      "slug": "ce-build-and-design-impactful-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "31kdo1kv7qncj",
+      "slug": "level-2-admin-certification-reports-dashboards-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "31pt6u26zgxbf",
+      "slug": "exporting-data-from-group-analytics",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "31vs0eu7qpv3a",
+      "slug": "how-a-gainsight-cs-leader-uses-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "31yfe5s3l5ela",
+      "slug": "ce-engage-with-learners-via-email",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "32bpv3z2cmkd2",
+      "slug": "admin-configuring-customer-goals-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "32lbsrg3a69ve",
+      "slug": "separator-cs-admin-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "32uim6ds1hywe",
+      "slug": "quick-tour-how-to-create-an-automated-onboarding-program-in-gainsights-journey-orchestrator",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "330ovamq8evrq",
+      "slug": "px-engagements",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "33gvhtf5c0ezc",
+      "slug": "level-2-admin-certification-journey-orchestrator-surveys-v2",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "33nemzlkvusnr",
+      "slug": "px-getting-started-with-gainsight-px",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "33qkwb1q5oqia",
+      "slug": "ce-create-user-groups",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "34hsflrpz0q7u",
+      "slug": "separator-cs-end-user-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "35371cnibdno3",
+      "slug": "managing-live-event-attendees",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "357mwrbp306na",
+      "slug": "ce-course-learner-engagement-analysis",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "35k2mq4g3m14y",
+      "slug": "quick-tour-how-to-add-users-from-csv-in-gainsight-user-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "35o3cx05xt42r",
+      "slug": "separator-skilljar",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "35pol576lav10",
+      "slug": "cs-end-user-introduction-to-scorecards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "360xpkjqznjxx",
+      "slug": "separator-engagements",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "363n0mcn18pij",
+      "slug": "ce-leveraging-commerce-to-monetize-your-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "367ynngg54qxn",
+      "slug": "gainsight-px-practice-exercises-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "36ay3ja659hyk",
+      "slug": "customizing-the-design-of-your-digital-hub",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "36dmvgx4gwf2d",
+      "slug": "configure-organization-settings",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "36eum6398siqu",
+      "slug": "admin-practical-understanding-data-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "36li61ptu6aah",
+      "slug": "cc-administrative-settings",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "36oh53pc6fjy2",
+      "slug": "nxt-nxt-horizon-reports-and-dashboards-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "36owspajgaqrx",
+      "slug": "train-the-trainer-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "36zai4a917u55",
+      "slug": "quick-tour-efficient-license-permission-bundle-management-in-gainsight-user-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "37nr6i9wc0dwj",
+      "slug": "gainsight-reportdashboardkihon",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "37qplf4fpnx2s",
+      "slug": "ai-essentials-for-customer-education-teams-from-prompt-to-published",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "37ymflbwh9k02",
+      "slug": "how-gainsights-professional-services-team-uses-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3882xgeo43zug",
+      "slug": "px-knowledge-center-bot",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "38l1pp2fpuvo7",
+      "slug": "admin-segments-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "38u69zu1adoi2",
+      "slug": "training-credits-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "393qe5ppqzwko",
+      "slug": "admin-user-management-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3949hqntt766i",
+      "slug": "px-closed-loop-feedback",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "39q6ekkw7of2k",
+      "slug": "quick-tip-what-is-business-modeler-in-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "39tl8zmh3wze",
+      "slug": "quick-tip-what-is-gainsight-salesforce-viewer",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "39trzq6adw3m5",
+      "slug": "separator-staircase-ai-quick-tip-videos",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3acfdjrci2xf8",
+      "slug": "stage-3-communicate-the-change",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3ar88m2ebp00q",
+      "slug": "separator-customer-communities-cc-customer-communities-cc-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3bfk16vxtnshf",
+      "slug": "quick-tip-what-is-gainsights-journey-orchestrator",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3bgh8tru03ok9",
+      "slug": "level-2-admin-certification-reports-and-dashboards-v3",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3bz4ux30u0hsn",
+      "slug": "restoring-your-gainsight-px-salesforce-integration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3cmgv1p0af003",
+      "slug": "integrating-px-and-cs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3cpuguyx5ppli",
+      "slug": "staircase-ai-setting-up-alerts-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3d4qpyu193207",
+      "slug": "gainsight-cc-partner-developer-training-onboarding",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3dgynbchc132j",
+      "slug": "separator-adoption-champion-recommended-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3dkyatx0xxfop",
+      "slug": "inviting-managing-students",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3ejfu9mrs19f8",
+      "slug": "quick-tour-how-to-add-users-from-external-systems-in-gainsight-user-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3ejopvchp8zcw",
+      "slug": "nxt-end-user-timeline",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3em6wrajntm7z",
+      "slug": "nxt-gainsight-nxt-gainsight-home",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3er1clanjrval",
+      "slug": "success-snapshots",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3euql94athb9f",
+      "slug": "quick-tip-how-to-leverage-gainsight-px-and-cs-for-rolepersona-confirmation",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3foz080tgde6q",
+      "slug": "managing-gainsight-end-user-feedback",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3g9x4whzof6u9",
+      "slug": "cs-end-user-interactive-demo-managing-ctas-in-cockpit",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3gmxspn44tdns",
+      "slug": "stage-2-build-your-coalition",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3gtfuexroqyto",
+      "slug": "first-100-days-as-a-cs-leader-plan-sequence-and-execute",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3gu5r1ilypztr",
+      "slug": "first-100-days-as-a-cs-leader-assess-diagnose-and-form-your-point-of-view",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3gvv07gaqqk2c",
+      "slug": "communityworkshopjizen3-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3h3bblpb6owyl",
+      "slug": "custom-end-user-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3h8tt76bygy5m",
+      "slug": "admin-practical-designing-effective-surveys",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3hrcxdmbyt34k",
+      "slug": "cc-put-ai-to-work-in-your-gainsight-community-using-the-cc-mcp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3ig3s6pbgg5wh",
+      "slug": "maximizing-impact-with-skilljar-salesforce",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3imlf21plnwzq",
+      "slug": "end-user-power-hour-session-demystifying-customer-health-with-scorecards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3jacws3wwmnzg",
+      "slug": "using-gainsight-to-track-and-manage-risks",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3jj7u5q5fzfny",
+      "slug": "ce-enroll-learners-in-a-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3k06dg13cs2iq",
+      "slug": "aiai-essentials-for-community-managers",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3k8zaib9a8d8a",
+      "slug": "cc-creating-and-managing-groups",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3k9aro6eugxg7",
+      "slug": "quick-tip-what-are-executive-dashboards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3ke78ck0qprr2",
+      "slug": "quick-tip-ai-cheat-sheet",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3kg9zx5t17c6",
+      "slug": "better-together-gainsight-cs-and-px",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3kloe3sweo6pl",
+      "slug": "configure-email-notifications",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3klyf5091px0y",
+      "slug": "360-nxt-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3kr2mbqiklq7j",
+      "slug": "cs-end-user-intro-to-gainsight-assist-for-outlook",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3l5sk9db7erub",
+      "slug": "ce-create-an-assignment-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3l7vy8e8zvpa8",
+      "slug": "run-use-case-triggering-px-engagements-and-surveys-from-journey-orchestrator",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3l90o2vj6ou1i",
+      "slug": "multi-session-live-training-events-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3lbc5fmg5arlg",
+      "slug": "cx-center-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3mjhbhavx6bin",
+      "slug": "gainsight-security-basics-skills-badge-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3mkihzqe2feme",
+      "slug": "identifying-and-tracking-risks-within-your-portfolio",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3mml9o4jot3y5",
+      "slug": "skilljars-external-management",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3mpr719j2fws3",
+      "slug": "customer-communities-salesforce-integration-restoration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3mrmexwch7o94",
+      "slug": "an-introduction-to-risk-detection-and-prevention",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3mtw2ely2jk2a",
+      "slug": "get-started-skilljar-mcp-server",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3npkilumzdr20",
+      "slug": "bulk-uploading-course-content",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3nqnf1kof1ehe",
+      "slug": "skilljars-content-syndication",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3otipphhr1gu3",
+      "slug": "getting-the-most-out-of-your-skilljar-data",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3oy6l0rgwtpmn",
+      "slug": "skilljar-dashboard-setup-administration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3oyhgr5bc43ts",
+      "slug": "understand-learning-objectives",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3phiqpns67xs",
+      "slug": "staircase-ai-setting-up-alerts",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3q9c0fvofsb3a",
+      "slug": "data-management-in-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3q9u47m3nosex",
+      "slug": "ai-ai-essentials-for-product-managers",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3qbfg7q8ax4wb",
+      "slug": "log-in-to-your-skilljar-dashboard",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3qiexwxw5tl58",
+      "slug": "cc-community-module-structure-content-permissions-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3qlyz1j3p60qf",
+      "slug": "staircase-interactive-walkthrough-use-ask-staircase-to-quickly-access-account-ai-driven-insights",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3qwav7696l8yl",
+      "slug": "cs-end-user-using-copilot-to-make-informed-decisions",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3qzsix1z9tn8s",
+      "slug": "ce-build-interactive-tutorials-quickly-using-the-iorad-integration",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3r00czg7o0dfy",
+      "slug": "overview-of-change-management-processes",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3reoyz62siapq",
+      "slug": "quick-tip-how-to-transform-the-customer-success-game-using-success-plans",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3rf9izvbnczl2",
+      "slug": "preview-publish-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3sa7fmcn3nrd1",
+      "slug": "preview-publish-courses-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3t81t6wkvib6j",
+      "slug": "nxt-end-user-scorecards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3texerndk6e1q",
+      "slug": "admin-scorecards-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3tg9tslieuda5",
+      "slug": "ce-customize-your-academy-website-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3tzkllwlvq5o7",
+      "slug": "ce-market-and-promote-your-academy",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3u7mnxryup0h5",
+      "slug": "nxt-nxt-success-plan",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3umpfbu9ow81t",
+      "slug": "cs-end-user-introduction-to-the-customer-360-c360",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3umvgbb5ibn7x",
+      "slug": "customer-stories-on-managing-and-preventing-churn",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3unexnfoa1dlm",
+      "slug": "custom-enrollment-reports",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3uoih3feljw6m",
+      "slug": "ai-essentials-for-csms-understanding-ai-in-your-cs-workflow",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3uozjx9f3diri",
+      "slug": "admin-timeline-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3urnoz48kk686",
+      "slug": "ce-work-with-gainsight-to-design-your-ideal-academy",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3v99hdwx5kyip",
+      "slug": "installing-the-salesforce-integration-sfdc-app",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3vvknct8ruaue",
+      "slug": "cc-creating-and-managing-content",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "3zxgrktuwb5a",
+      "slug": "gainsight-end-user-practice-exercises-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "4351j2i3mwbv",
+      "slug": "organize-students-with-groups",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "4h8jyybnkg13",
+      "slug": "data-designer-reports-recovery",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "4kby0sn057iy",
+      "slug": "quick-tip-what-is-gainsight-mobile-app",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "4u10fczga5y",
+      "slug": "adoption-explorer-use-case-tutorials-and-walkthroughs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "519kkbjpqiwk",
+      "slug": "cloning-a-catalog-page",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "52e8lwa32iw0",
+      "slug": "train-the-trainer-gainsight-launch-training-for-staircase-ai-teams",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "5by7kpyj5hbw",
+      "slug": "admin-practical-digital-journey-basics",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "5csyxpefsq28",
+      "slug": "nxt-admin-scorecards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "5pqhmbgnk2py",
+      "slug": "cs-admin-horizon-reports-dashboards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "5v5mm57n1pxp",
+      "slug": "the-csms-ai-writing-playbook",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "61vvt0de4gg9",
+      "slug": "caption-file-upload-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "67vkxg808qaa",
+      "slug": "cc-moderating-content",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "69ynco16mioz",
+      "slug": "turn-skilljar-analytics-into-action",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "6az87rnfv022",
+      "slug": "adding-managing-dashboard-users",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "6fu6xcvrjiep",
+      "slug": "digital-hub-analytics",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "6g1kekexhagp",
+      "slug": "course-maintenance-asset-management-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "6mhtrgyinnlw",
+      "slug": "conducting-effective-kickoff-calls",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "6wfi8qtbwizy",
+      "slug": "separator-skilljar-foundations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "6wniajbuaan2",
+      "slug": "quick-tip-gainsights-approach-to-preventing-customer-churn",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "6x76pk2wroj2",
+      "slug": "staircase-ai-accounts-overview-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "6xwvnrpuhfme",
+      "slug": "overview-of-gainsight-api",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "71vqnvrkddou",
+      "slug": "px-a-guide-to-gainsight-px-engagement-governance",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "75p48d2byjhc",
+      "slug": "getting-started-gainsight-nxt-recovery-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "75qplv86qyxs",
+      "slug": "px-setup-installation",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "7rst6los35e7",
+      "slug": "px-custom-events-and-global-context-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "7wgpdr8h7yxt",
+      "slug": "3-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "8g4qy7xuojix",
+      "slug": "introduction-to-integrations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "8s9i0bpa96xo",
+      "slug": "quick-tip-how-does-a-director-at-gainsight-use-gs-cs",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "8u7wc79cs2v8",
+      "slug": "building-your-px-cs-strategy",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "90tiqt9uo8b5",
+      "slug": "admin-nxt-gainsight-sally",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "94iznz6mmrdo",
+      "slug": "separator-post-launch-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "95wy7p4deder",
+      "slug": "skilljar-welcome-to-skilljar-lets-get-started-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "97pvpvfeafdr",
+      "slug": "gainsight-associate-admin-certificate-level-1-japanese",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "9fi07e330xlt",
+      "slug": "connecting-px-and-cs-with-an-identifier",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "9ie855gn0se0",
+      "slug": "defeating-the-ai-replacement-objection-why-no-stack-claude-alone-or-with-mcps-beats-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "9ikvmyjz4f8n",
+      "slug": "quick-tip-csql-in-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "9sodje1798rz",
+      "slug": "quick-tour-salesforce-and-gainsight-integration-setup",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "9yoc7ugotjju",
+      "slug": "admin-jo-advanced-programs-nxt-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "a0r8tmuci3ip",
+      "slug": "adoption-explorer-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "a4p2uea0l2dn",
+      "slug": "px-data-loader",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "a5dl5mbewbpk",
+      "slug": "quick-tip-px-engagements-user-behavior-triggers",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "a797dmy6ainn",
+      "slug": "cs-end-user-scorecards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ap7l0np7tl6x",
+      "slug": "build-a-learning-journey-with-learning-paths-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "auu61yax7j67",
+      "slug": "manage-your-students",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "azseji0jnlqy",
+      "slug": "cs-end-user-introduction-to-success-plans",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "bbw8r29pzjf8",
+      "slug": "separator-ai-ai-essentials",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "bt3nl3fwnflz",
+      "slug": "separator-cs-cs-end-user-training-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "btp02jjpk0uo",
+      "slug": "plan-your-catalog-and-site-structure",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "c2gdy0zerxls",
+      "slug": "enabling-cs-success-the-tpm-handoff-process",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ck2f91tacsc8",
+      "slug": "cs-admin-360",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "cqy4rkhzswxv",
+      "slug": "staircase-ai-reports",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "crwh48jrz4si",
+      "slug": "setting-or-changing-your-catalog-homepage",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "cshd977een74",
+      "slug": "aimcp-introduction-to-mcp-for-everyday-use",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "cv6egn02ugvm",
+      "slug": "build-a-learning-journey-with-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "cymyhwshd73a",
+      "slug": "quick-tip-enhanced-visibility-tracking-automated-customer-communications",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "db80olczzg7i",
+      "slug": "admin-practical-scorecards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "dl7eo8778qhp",
+      "slug": "csacademyjp-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "dopcpfqbigwq",
+      "slug": "final-validation-resuming-operations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "dume5n5mkeqf",
+      "slug": "ce-create-a-dynamic-quiz-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "dy2jx0n7dweb",
+      "slug": "signing-in-as-a-student",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "e7cjeyb0xug4",
+      "slug": "day-in-the-life-of-an-executive-using-staircase-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "eo5rk94xnzcp",
+      "slug": "pre-sales-scoping-sow-creation",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ep9j04dp8wnq",
+      "slug": "email-campaigns-and-segments-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "es29di4s2gsl",
+      "slug": "admin-rules-engine",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "f45zown7a8vt",
+      "slug": "walk-use-case-survey-integration-product-adoption-jo",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "f72yvgm4iox5",
+      "slug": "journey-orchestrator-recovery-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "f8hvqtvf6asq",
+      "slug": "gainsight-admin-cli-intro-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "fd4h4ty9yl5",
+      "slug": "admin-experiential-mastering-data-preparation",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "fd84hbpudr41",
+      "slug": "getting-started-with-gainsight-end-user-webinar",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ff1a7akp6sm9",
+      "slug": "build-your-cs-platform-custom-mcps-real-ux",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "fkkq54ygn1py",
+      "slug": "cs-admin-email-template-builder",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "gidja89p38xw",
+      "slug": "chrome-end-user-intro-to-gainsight-assist-chrome-plugin",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "gp4t762bvt3v",
+      "slug": "gainsight-home-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "h4qen1pmvdev",
+      "slug": "go-to-market-playbook-templates",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "i00g3i6yco6p",
+      "slug": "ai-ai-essentials-for-customer-education-teams",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "i9962lrbixms",
+      "slug": "gainsight-admin-foundations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "i9kqzc02bkoi",
+      "slug": "cs-it-readiness-application-architecture",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "il6chzxss43j",
+      "slug": "quick-tip-gainsight-cockpit-streamlining-customer-engagement",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "iq2c3ai1px5d",
+      "slug": "quick-tip-what-is-gainsight-home",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "iqrvbz6z1vw9",
+      "slug": "cs-end-user-introduction-to-gainsight-home",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "irn8s1cbg4hu",
+      "slug": "separator-customer-education-training-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "iutsjs85mhke",
+      "slug": "quick-tip-px-engagements-font-styling",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "j3l3jv9nisp6",
+      "slug": "staircase-ai-reportsreports",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "j8hfaz2cq5lv",
+      "slug": "ce-creating-and-managing-certificates",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "jcdj9btb1fvy",
+      "slug": "cs-end-user-interactive-demo-introduction-to-the-customer-360-c360",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "jledeiqqw884",
+      "slug": "staircase-ai-health-score",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "jwwhizu0acck",
+      "slug": "day-in-the-life-of-a-csmam-using-staircase-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "k8ivx1hafzks",
+      "slug": "product-certifications",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "kyionlhiubn3",
+      "slug": "gainsight-certified-administrator-level-3",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "li3eu7t467c0",
+      "slug": "nxt-nxt-cockpit-and-playbook",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ltf7h3dg7r03",
+      "slug": "mastering-fixit-human-ai-collaboration-for-csms",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "m1ee1rchbum8",
+      "slug": "cs-admin-configuring-timeline",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "m3dwiynjlzbq",
+      "slug": "quick-tip-staircase-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ma2j3i1a8h24",
+      "slug": "adding-a-new-dashboard-user",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "mbgvmw33ted6",
+      "slug": "nxt-nxt-end-user-foundations",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ml8b4ceehbrw",
+      "slug": "quick-tour-how-to-create-a-dashboard-in-gainsight",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "msysfqrkxnkr",
+      "slug": "create-a-learning-path",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "mumg4pbok4sw",
+      "slug": "ai-essentials-for-product-managers-boosting-workflow-efficiencyuntitled-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "muthvs0gukhw",
+      "slug": "single-sign-on-overview",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "n0u6emyv3jt5",
+      "slug": "gainsight-associate-admin-certificate-level-1-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "n5mxmy1eur6b",
+      "slug": "gamification-training",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "n84jbteu7qa7",
+      "slug": "cs-admin-getting-started-with-spaces",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ngz9gw4onubb",
+      "slug": "csmaiai-ai-essentials-for-csms",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "niik80u8zpkm",
+      "slug": "cs-admin-digital-journey",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "nlzwpl297aqj",
+      "slug": "cs-cs-end-user-group-send",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "nuc2yjmsli1p",
+      "slug": "get-started-with-content-course-management-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "nzn2vysmstkd",
+      "slug": "how-to-create-a-job-chain",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "oaylvdvxkol3",
+      "slug": "admin-practical-rules-engine-deep-dive",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "od7iqzq22nzy",
+      "slug": "admin-training-lite",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ofncxiil099s",
+      "slug": "staircase-ai-onboarding-best-practices-for-solutions-architects",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "p2cck8qwug3x",
+      "slug": "renewal-center-recovery",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "pk5b4tozgidp",
+      "slug": "px-put-ai-to-work-in-gainsight-px-using-the-px-mcp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "psoug3ifrs01",
+      "slug": "separator-staircase-ai-training-courses",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "pujrw58bb27v",
+      "slug": "quick-tip-px-welcome-personalization-in-app-video-2",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "q1z0bhehbrlm",
+      "slug": "quick-tip-unlocking-productivity-navigating-gainsight-home",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "q4v5pbtc3fd1",
+      "slug": "end-user-power-hour-session-gainsight-ai-supercharging-your-cs-journey",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "q7v0kfo28rex",
+      "slug": "staircase-ai-introduction",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "q8cn4hmb05xr",
+      "slug": "skilljar-certified-professional-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "qe68r4tfdf6d",
+      "slug": "admin-practical-report-builder-basics",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "qew75f3zwr9q",
+      "slug": "surveys-tips-tricks",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "qlhart4mtpi4",
+      "slug": "cs-end-user-cockpit-playbooks",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "qlrrylk3fc1u",
+      "slug": "cs-admin-cockpit-playbooks",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "qxiaox932fm",
+      "slug": "separator-learning-paths",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "qye9r5wl0av8",
+      "slug": "quick-tip-streamlining-customer-success-snapshots",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "qzqd6w63ovft",
+      "slug": "data-designer-recovery-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "r36ywpt5b513",
+      "slug": "1-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "rntu2ilc0de4",
+      "slug": "gainsight-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "rowb03zeu4q5",
+      "slug": "use-theming-to-brand-your-training-domain",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "rr48qtwuzky0",
+      "slug": "admin-practical-rules-engine-basics",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "s4edbe99v2wj",
+      "slug": "cs-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "s5u4hkwetaf3",
+      "slug": "separator-gainsight-px",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "segei8lsv1rv",
+      "slug": "nxt-admin-journey-orchestrator-nxt",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "sone89ry149n",
+      "slug": "cc-community-module-structure-content-permissions",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "sqvavwmoesvi",
+      "slug": "journey-orchestrator-recovery",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "sxkow6ohw1at",
+      "slug": "stage-5-sustain-and-govern",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ti3sqc33ftsf",
+      "slug": "customizing-course-platform-text",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "tp9i77emcuwk",
+      "slug": "rules-engine-recovery",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ts542f4vlrqd",
+      "slug": "quick-tour-streamlining-success-navigating-gainsights-journey-orchestrator",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "u91ppos50bck",
+      "slug": "quick-tour-how-to-create-a-basic-report-in-gainsight-reports-and-dashboards",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "ufms2s3eqvln",
+      "slug": "quick-tour-how-to-configure-job-schedule-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "uqobae6983wg",
+      "slug": "html-blocks-interactive-lesson-templates",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "uwup5en21tgy",
+      "slug": "renewal-center-recovery-jp",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "v1pv4aqxtkcj",
+      "slug": "cs-course-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "va05anjqy3jv",
+      "slug": "ai-powered-cs-workflows-advanced-use-cases",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "vhw9ih1xxa4p",
+      "slug": "staircase-ai-best-practices",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "vj3uquy2ynhn",
+      "slug": "introduction-to-staircase-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "voj0ui52npa5",
+      "slug": "px-analytics",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "w4biwzhzakg5",
+      "slug": "quick-tip-how-to-write-emails-with-ai",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "w7dwtd25kfap",
+      "slug": "restoring-your-salesforce-connector",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "wdw86f81k5y5",
+      "slug": "vas-tpm-certification-final-exam",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "weamnz95cuco",
+      "slug": "getting-started-with-skilljars-api",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "wjrzlujwb1v1",
+      "slug": "level-2-admin-certification-reports-dashboards-v2",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "wvesxrwasqbt",
+      "slug": "quick-tip-exploring-gainsight-home",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "x1j4w9x2yimp",
+      "slug": "staircase-ai-executive-dashboard",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "x2m8b3md9mz8",
+      "slug": "separator-getting-started-setup",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "x6ctc4v2oc72",
+      "slug": "quick-tip-gainsight-people-maps-your-key-to-retention-growth",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "xcuz0t8hqgm3",
+      "slug": "gainsight-security-basics-data-privacy",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "xf7wpgo04e3x",
+      "slug": "level-2-admin-certification-journey-orchestrator-surveys-v1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "xjk5xcya9y3r",
+      "slug": "timeline-course",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "xmcmgp4fjun9",
+      "slug": "ce-managing-internal-roles-permissions",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "xny9qy0tda7p",
+      "slug": "cc-email-campaigns-and-segments",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "xt8an2sb3wgt",
+      "slug": "1-course-1",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "xvgsh3gjl6ae",
+      "slug": "quick-tour-how-to-transform-data-in-a-source-object-in-gainsight-connectors",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "xyv1tkt71ocn",
+      "slug": "quick-tip-what-is-adoption-explorer",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "yil55967gk95",
+      "slug": "cc-customer-communities-analytics",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "z3gk5iei933h",
+      "slug": "admin-continuing-education-package",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "zkxcmnvob5p3",
+      "slug": "monitor-learner-activity-in-analytics",
+      "title": null,
+      "average_rating": null
+    },
+    {
+      "course_id": "zwbccy51d841",
+      "slug": "cs-end-user-introduction-to-reports-dashboards",
+      "title": null,
+      "average_rating": null
+    }
+  ]
 }

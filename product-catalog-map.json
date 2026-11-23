@@ -1,1 +1,13 @@
-{"by_slug": {}, "by_title": {}, "by_slug_inferred": {}}
+{
+  "by_slug": {},
+  "by_title": {},
+  "by_slug_inferred": {
+    "data-management-in-gainsight": {
+      "codes": [
+        "CS"
+      ],
+      "basis": "title prefix 'CS Admin'",
+      "inferred_on": "2026-11-23"
+    }
+  }
+}
