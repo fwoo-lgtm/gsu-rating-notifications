@@ -8,6 +8,13 @@
       ],
       "basis": "title prefix 'CS Admin'",
       "inferred_on": "2026-11-23"
+    },
+    "gainsight-foundations-nxt-fka-101": {
+      "codes": [
+        "CS"
+      ],
+      "basis": "Title starts with 'CS End User'",
+      "inferred_on": "2026-11-24"
     }
   }
 }
