@@ -15,6 +15,20 @@
       ],
       "basis": "Title starts with 'CS End User'",
       "inferred_on": "2026-11-24"
+    },
+    "cs-end-user-360": {
+      "codes": [
+        "CS"
+      ],
+      "basis": "title prefix 'CS End User'",
+      "inferred_on": "2026-11-26"
+    },
+    "bundle-and-sell-training-with-plans": {
+      "codes": [
+        "SJ"
+      ],
+      "basis": "course about the Skilljar product (Plans)",
+      "inferred_on": "2026-11-26"
     }
   }
 }
