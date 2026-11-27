@@ -29,6 +29,13 @@
       ],
       "basis": "course about the Skilljar product (Plans)",
       "inferred_on": "2026-11-26"
+    },
+    "skilljar-certified-professional-exam": {
+      "codes": [
+        "SJ"
+      ],
+      "basis": "Course is about the Skilljar product itself (Skilljar Admin Professional Exam)",
+      "inferred_on": "2026-11-27"
     }
   }
 }
